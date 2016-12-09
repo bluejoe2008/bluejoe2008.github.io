@@ -1,12 +1,10 @@
-![](https://avatars1.githubusercontent.com/u/2328905?v=3&s=460 =200x)
-沈志宏 （网名白乔,bluejoe2008）
----
-中国科学院计算机网络信息中心
-研究员，博士，硕士生导师
+![](photo.jpeg =200x)
+###沈志宏 （网名白乔,bluejoe2008）  
+中国科学院计算机网络信息中心  
+研究员，博士，硕士生导师  
 __研究兴趣__：科学数据管理与集成,关联数据,spark,大数据
 
-口头报告
-----
+###口头报告
 
 * Publishing and Linking Scientific Data. 2nd Annual CHANGES Workshop Data Driven Science: "Data Management, Analytics and Visualization“. Sep. 10, 2013. Chicago, US
 * Interoperation between Scientific Data and Literature : An overview. CODATA: data science workshop. Oct 25, 2012. Shanghai, China
