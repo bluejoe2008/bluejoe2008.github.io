@@ -8,7 +8,7 @@
 __研究兴趣__：科学数据管理与集成,关联数据,spark,大数据
 
 口头报告
-====
+--
 
 * Publishing and Linking Scientific Data. 2nd Annual CHANGES Workshop Data Driven Science: "Data Management, Analytics and Visualization“. Sep. 10, 2013. Chicago, US
 * Interoperation between Scientific Data and Literature : An overview. CODATA: data science workshop. Oct 25, 2012. Shanghai, China
