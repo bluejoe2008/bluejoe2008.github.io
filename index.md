@@ -72,6 +72,7 @@ __喜欢__编程（C++/Java/Scala）、开源、技术性写作
 
 ###口头报告
 
+* 技术架构变迁：从SQL到大数据时代. COINFO2016. 2016/10/16. 北京
 * Publishing and Linking Scientific Data. 2nd Annual CHANGES Workshop Data Driven Science: "Data Management, Analytics and Visualization“. Sep. 10, 2013. Chicago, US
 * Interoperation between Scientific Data and Literature : An overview. CODATA: data science workshop. Oct 25, 2012. Shanghai, China
 * Managing and Linking Scientific Data on the Web via VisualDB. The First ICSU World Data System Conference. Sep 5, 2011. Kyoto, Japan
@@ -87,4 +88,4 @@ __喜欢__编程（C++/Java/Scala）、开源、技术性写作
 
 ###联系方式
 
-* 电子邮箱: bluejoe@cnic.cn
+* 电子邮箱: bluejoe(at)cnic.cn
