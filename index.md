@@ -23,7 +23,7 @@ __喜欢__编程（C++/Java/Scala）、开源、技术性写作
 * elfinder-servlet-2.x: elfinder文件管理器Java后端
 * solr-sql: 针对solr cloud的sql接口封装
 * openwebflow: 基于Activiti的工作流引擎扩展，允许自定义用户信息及权限设计
-* <https://github.com/bluejoe2008>
+* ...
 
 ###软件研发编著
 
@@ -89,3 +89,5 @@ __喜欢__编程（C++/Java/Scala）、开源、技术性写作
 ###联系方式
 
 * 电子邮箱: bluejoe(at)cnic.cn
+* 开源主页: <https://github.com/bluejoe2008>
+* csdn博客: <http://blog.csdn.net/bluejoe2000>
