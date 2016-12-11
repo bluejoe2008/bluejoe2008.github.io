@@ -5,8 +5,8 @@
 研究员，博士，硕士生导师  
 中国科学院计算机网络信息中心大数据应用服务技术实验室 主任  
 __研究兴趣__：科学数据管理与集成，关联数据，spark，大数据  
-__喜欢__编程（C++/Java/Scala）、开源、技术性写作  
-__不擅长__应酬、非技术性paperwork
+__喜欢__编程（C++/Java/Scala）、开源、技术性写作，_每天最大的惊喜来自于开源项目被fork_  
+在_应酬、非技术性paperwork_方面比较低能低效，反对灌水式论文
 
 ###研究项目
 
@@ -80,3 +80,12 @@ __不擅长__应酬、非技术性paperwork
 * Publishing Scientific Data as Linked Data. Sino-German Training Workshop on Open Access. Mar, 2014. Beijing, China
 * Publishing, Searching and Linking Scientific Data—Experience on Applying Linked Data to Scientific Database Project. the international training workshop of scientific data sharing. Nov, 2013. Beijing, China
 * SQL, NoSQL and NewSQL, What’s your choice? the international training workshop of scientific data sharing. Jun, 2014. Beijing, China
+
+###获得奖励
+
+* 2013年度中国科学院院长优秀奖
+
+###联系方式
+
+* 电子邮箱: bluejoe2008@gmail.com
+* QQ账号: 5854165
