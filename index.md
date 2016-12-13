@@ -62,6 +62,7 @@ __喜欢__编程（C++/Java/Scala）、开源、技术性写作
 
 * 面向LOD的关联发现过程的定位、目标与复杂性分析. 沈志宏; 黎建辉; 张晓林. 中国图书馆学报.2013(6)
 * 关联数据互联技术研究综述:应用、方法与框架. 沈志宏; 黎建辉; 张晓林. 图书情报工作. 2013(14)
+* A cloud Computation Architecture for Unconventional Emergency Management. Jianhui LiYuanchun ZhouWei ShangCungen CaoZhihong ShenFenglei YangXiao XiaoDanhuai Guo. In: WAIM2013
 * 关联数据发布流程与关键问题研究——以科技文献、科学数据的发布为例. 沈志宏,刘筱敏,郭学兵等.中国图书馆学报. 2013(2)
 * OpenCSDB: 关联数据在科学数据库中的应用研究. 沈志宏,张晓林,黎建辉.中国图书馆学报，2012(5)
 * Voovle: A linked data search engine for scientific data. Zhihong Shen, Yanfei Hou, Jianhui Li. In: FSKD2012.
