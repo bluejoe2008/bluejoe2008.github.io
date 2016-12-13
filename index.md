@@ -65,6 +65,7 @@ __喜欢__编程（C++/Java/Scala）、开源、技术性写作
 * 关联数据发布流程与关键问题研究——以科技文献、科学数据的发布为例. 沈志宏,刘筱敏,郭学兵等.中国图书馆学报. 2013(2)
 * OpenCSDB: 关联数据在科学数据库中的应用研究. 沈志宏,张晓林,黎建辉.中国图书馆学报，2012(5)
 * Voovle: A linked data search engine for scientific data. Zhihong Shen, Yanfei Hou, Jianhui Li. In: FSKD2012.
+* iDNABar: A Rapid Species Identification Toolbox for DNA Barcoding, Collection, Preservation, Identification and Tracing. Zhen MengJianhui LiYunchun ZhouYanping GaoZhihong Shen. In: ISKE2011.
 * 语义网环境下数据溯源描述模型研究综述.沈志宏,张晓林.现代图书情报技术. 2011, 27(4) 1-8
 * Publishing distributed files as Linked Data. Zhihong Shen, Yufang Hou, Jianhui Li. In: FSKD2011.
 * VisualDB: Managing and Publishing Scientific Data on the Web. Zhihong Shen, Jianhui Li, Chengzan Li, et al. In: CyberC2011. 
