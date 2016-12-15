@@ -60,16 +60,23 @@ __喜欢__编程（C++/Java/Scala）、开源、技术性写作
 
 ###学术论文
 
-* 面向LOD的关联发现过程的定位、目标与复杂性分析. 沈志宏; 黎建辉; 张晓林. 中国图书馆学报.2013(6)
-* 关联数据互联技术研究综述:应用、方法与框架. 沈志宏; 黎建辉; 张晓林. 图书情报工作. 2013(14)
-* A cloud Computation Architecture for Unconventional Emergency Management. Jianhui LiYuanchun ZhouWei ShangCungen CaoZhihong ShenFenglei YangXiao XiaoDanhuai Guo. In: WAIM2013
+* 基于NoSQL的RDF数据存储与查询技术综述. 王林彬,黎建辉,沈志宏. 计算机应用研究. 2015(5)
+* 面向LOD的关联发现过程的定位、目标与复杂性分析. 沈志宏,黎建辉,张晓林. 中国图书馆学报. 2013(6)
+* 关联数据互联技术研究综述:应用、方法与框架. 沈志宏,黎建辉,张晓林. 图书情报工作. 2013(14)
+* A cloud Computation Architecture for Unconventional Emergency Management. Jianhui Li,Yuanchun Zhou,Wei Shang,Cungen Cao,Zhihong Shen,Fenglei Yang,Xiao Xiao,Danhuai Guo. In: WAIM2013
 * 关联数据发布流程与关键问题研究——以科技文献、科学数据的发布为例. 沈志宏,刘筱敏,郭学兵等.中国图书馆学报. 2013(2)
+* 面向科学数据的PageRank排序算法. 黎建辉,兰金松,沈志宏,滕常延,周园春. 计算机科学与探索. 2013(06)
 * OpenCSDB: 关联数据在科学数据库中的应用研究. 沈志宏,张晓林,黎建辉.中国图书馆学报，2012(5)
-* Voovle: A linked data search engine for scientific data. Zhihong Shen, Yanfei Hou, Jianhui Li. In: FSKD2012.
-* iDNABar: A Rapid Species Identification Toolbox for DNA Barcoding, Collection, Preservation, Identification and Tracing. Zhen MengJianhui LiYunchun ZhouYanping GaoZhihong Shen. In: ISKE2011.
+* Voovle: A linked data search engine for scientific data. Zhihong Shen,Yanfei Hou,Jianhui Li. In: FSKD2012.
+* iDNABar: A Rapid Species Identification Toolbox for DNA Barcoding, Collection, Preservation, Identification and Tracing. Zhen Meng,Jianhui Li,Yunchun Zhou,Yanping Gao,Zhihong Shen. In: ISKE2011.
 * 语义网环境下数据溯源描述模型研究综述.沈志宏,张晓林.现代图书情报技术. 2011, 27(4) 1-8
-* Publishing distributed files as Linked Data. Zhihong Shen, Yufang Hou, Jianhui Li. In: FSKD2011.
-* VisualDB: Managing and Publishing Scientific Data on the Web. Zhihong Shen, Jianhui Li, Chengzan Li, et al. In: CyberC2011. 
+* Publishing distributed files as Linked Data. Zhihong Shen,Yufang Hou,Jianhui Li. In: FSKD2011.
+* VisualDB: Managing and Publishing Scientific Data on the Web. Zhihong Shen,Jianhui Li,Chengzan Li,et al. In: CyberC2011. 
+* 基于规则的土壤数据校验模型研究与实现. 张仁,沈志宏,黎建辉,施建平. 计算机系统应用. 2010(08)
+* 支持科学数据专业类型的统一检索框架. 史晓磊,沈志宏,黎建辉. 计算机系统应用. 2010(12)
+* 信息系统访问控制的层次模型. 吴开超,沈志宏,周园春,阎保平. 计算机工程与设计. 2009(01)
+* 访问控制聚合模型研究. 吴开超,沈志宏,周园春,阎保平. 微电子学与计算机. 2009(01)
+* 基于元目录的数据管理模型的研究与实现. 王建芳,阎保平,吴开超,沈志宏. 计算机工程. 2007(10)
 * ...
 
 ###口头报告
