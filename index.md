@@ -62,16 +62,17 @@ __喜欢__编程（C++/Java/Scala）、开源、技术性写作
 
 ###学术论文
 
-* 基于NoSQL的RDF数据存储与查询技术综述. 王林彬,黎建辉,沈志宏. 计算机应用研究. 2015(5)
-* 面向LOD的关联发现过程的定位、目标与复杂性分析. 沈志宏,黎建辉,张晓林. 中国图书馆学报. 2013(6)
-* 关联数据互联技术研究综述:应用、方法与框架. 沈志宏,黎建辉,张晓林. 图书情报工作. 2013(14)
+* 基于NoSQL的RDF数据存储与查询技术综述. 王林彬,黎建辉,沈志宏. 计算机应用研究. 2015(5) <https://bluejoe2008.github.io/Overview_of_NoSQL_databases_for_large_scaled_RDF_data_management.pdf>
+* 面向LOD的关联发现过程的定位、目标与复杂性分析. 沈志宏,黎建辉,张晓林. 中国图书馆学报. 2013(6) <https://bluejoe2008.github.io/Insights_into_Link_Discovery_Process_for_Linked_Open_Data.pdf>
+* 关联数据互联技术研究综述:应用、方法与框架. 沈志宏,黎建辉,张晓林. 图书情报工作. 2013(14)<https://bluejoe2008.github.io/Research_Review_on_the_Interlinking_Technology_of_Linked_Data.pdf>
 * A cloud Computation Architecture for Unconventional Emergency Management. Jianhui Li,Yuanchun Zhou,Wei Shang,Cungen Cao,Zhihong Shen,Fenglei Yang,Xiao Xiao,Danhuai Guo. In: WAIM2013
-* 关联数据发布流程与关键问题研究——以科技文献、科学数据的发布为例. 沈志宏,刘筱敏,郭学兵等.中国图书馆学报. 2013(2)
+* 关联数据发布流程与关键问题研究——以科技文献、科学数据的发布为例. 沈志宏,刘筱敏,郭学兵等.中国图书馆学报. 2013(2)<https://bluejoe2008.github.io/A_Research_on_Publishing_Workflow_and_Key_Issues_of_Linked_Data.pdf>
 * 面向科学数据的PageRank排序算法. 黎建辉,兰金松,沈志宏,滕常延,周园春. 计算机科学与探索. 2013(06)
 * OpenCSDB: 关联数据在科学数据库中的应用研究. 沈志宏,张晓林,黎建辉.中国图书馆学报，2012(5)
+<https://bluejoe2008.github.io/OpenCSDB_Application_of_Linked_Data_in_Scientific_Database.pdf>
 * Voovle: A linked data search engine for scientific data. Zhihong Shen,Yanfei Hou,Jianhui Li. In: FSKD2012.
 * iDNABar: A Rapid Species Identification Toolbox for DNA Barcoding, Collection, Preservation, Identification and Tracing. Zhen Meng,Jianhui Li,Yunchun Zhou,Yanping Gao,Zhihong Shen. In: ISKE2011.
-* 语义网环境下数据溯源描述模型研究综述.沈志宏,张晓林.现代图书情报技术. 2011, 27(4) 1-8
+* 语义网环境下数据溯源描述模型研究综述.沈志宏,张晓林.现代图书情报技术. 2011, 27(4) 1-8 <https://bluejoe2008.github.io/Data_Provenance_Model_in_Semantic_Web_Environment.pdf>
 * Publishing distributed files as Linked Data. Zhihong Shen,Yufang Hou,Jianhui Li. In: FSKD2011.
 * VisualDB: Managing and Publishing Scientific Data on the Web. Zhihong Shen,Jianhui Li,Chengzan Li,et al. In: CyberC2011. 
 * 基于规则的土壤数据校验模型研究与实现. 张仁,沈志宏,黎建辉,施建平. 计算机系统应用. 2010(08)
