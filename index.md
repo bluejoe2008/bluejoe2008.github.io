@@ -104,3 +104,4 @@ __喜欢__编程（C++/Java/Scala）、开源、技术性写作
 * 电子邮箱: bluejoe(at)cnic.cn
 * 开源主页: <https://github.com/bluejoe2008>
 * CSDN博客: <http://blog.csdn.net/bluejoe2000>
+* 在线留言: <https://github.com/bluejoe2008/bluejoe2008.github.io/issues>
