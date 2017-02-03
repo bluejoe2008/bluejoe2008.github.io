@@ -76,7 +76,7 @@ __喜欢__编程（C++/Java/Scala）、开源、技术性写作
 * 语义网环境下数据溯源描述模型研究综述.沈志宏,张晓林.现代图书情报技术. 2011, 27(4) 1-8 <https://bluejoe2008.github.io/Data_Provenance_Model_in_Semantic_Web_Environment.pdf>
 * Publishing distributed files as Linked Data. Zhihong Shen,Yufang Hou,Jianhui Li. In: FSKD2011. <https://bluejoe2008.github.io/Publishing_Distributed_Files_as_Linked_Data.pdf>
 * VisualDB: Managing and Publishing Scientific Data on the Web. Zhihong Shen,Jianhui Li,Chengzan Li,et al. In: CyberC2011. <https://bluejoe2008.github.io/VisualDB_Managing_and_Publishing_Scientific_Data_on_the_Web.pdf>
-* 关联数据及其应用现状综述[J]，现代图书情报技术，2010(1):1-9 <https://bluejoe2008.github.io/Linked_Data_and_Its_Applications.pdf>
+* 关联数据及其应用现状综述. 沈志宏,张晓林. 现代图书情报技术. 2010(1):1-9 <https://bluejoe2008.github.io/Linked_Data_and_Its_Applications.pdf>
 * 基于规则的土壤数据校验模型研究与实现. 张仁,沈志宏,黎建辉,施建平. 计算机系统应用. 2010(08)
 * 支持科学数据专业类型的统一检索框架. 史晓磊,沈志宏,黎建辉. 计算机系统应用. 2010(12)
 * 信息系统访问控制的层次模型. 吴开超,沈志宏,周园春,阎保平. 计算机工程与设计. 2009(01) <https://bluejoe2008.github.io/Hierarchy_model_of_access_control_in_information_system.pdf>
