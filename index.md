@@ -67,7 +67,8 @@ __喜欢__编程（C++/Java/Scala）、开源、技术性写作
 * 关联数据互联技术研究综述:应用、方法与框架. 沈志宏,黎建辉,张晓林. 图书情报工作. 2013(14) <https://bluejoe2008.github.io/Research_Review_on_the_Interlinking_Technology_of_Linked_Data.pdf>
 * A cloud Computation Architecture for Unconventional Emergency Management. Jianhui Li,Yuanchun Zhou,Wei Shang,Cungen Cao,Zhihong Shen,Fenglei Yang,Xiao Xiao,Danhuai Guo. In: WAIM2013
 * 关联数据发布流程与关键问题研究——以科技文献、科学数据的发布为例. 沈志宏,刘筱敏,郭学兵等.中国图书馆学报. 2013(2) <https://bluejoe2008.github.io/A_Research_on_Publishing_Workflow_and_Key_Issues_of_Linked_Data.pdf>
-* 面向科学数据的PageRank排序算法. 黎建辉,兰金松,沈志宏,滕常延,周园春. 计算机科学与探索. 2013(06)
+* 面向科学数据的PageRank排序算法. 黎建辉,兰金松,沈志宏等. 计算机科学与探索. 2013(06) <https://bluejoe2008.github.io/PageRank_Algorithm_for_Scientific_Data_Ranking.pdf>
+* 大规模的RDF数据存储技术综述. 何少鹏,黎建辉.沈志宏等. 网络新媒体技术. 2013(1):8-16 <https://bluejoe2008.github.io/Overview_of_the_Storage_Technology_for_Large_scale_RDF_Data.pdf>
 * OpenCSDB: 关联数据在科学数据库中的应用研究. 沈志宏,张晓林,黎建辉.中国图书馆学报，2012(5)
 <https://bluejoe2008.github.io/OpenCSDB_Application_of_Linked_Data_in_Scientific_Database.pdf>
 * Voovle: A linked data search engine for scientific data. Zhihong Shen,Yanfei Hou,Jianhui Li. In: FSKD2012. <https://bluejoe2008.github.io/Voovle_A_linked_data_search_engine_for_scientific_data.pdf>
