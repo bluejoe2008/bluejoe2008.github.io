@@ -62,6 +62,7 @@ __研究兴趣__：科学数据管理与集成，关联数据，语义网，大�
 
 ###学术论文
 
+* 科学大数据管理：概念、技术与系统. 黎建辉,沈志宏,孟小峰. 计算机研究与发展. 2017(2) <https://bluejoe2008.github.io/Scientific_Big_Data_Management_Concepts,_Technologies_and_System.pdf>
 * 基于NoSQL的RDF数据存储与查询技术综述. 王林彬,黎建辉,沈志宏. 计算机应用研究. 2015(5) <https://bluejoe2008.github.io/Overview_of_NoSQL_databases_for_large_scaled_RDF_data_management.pdf>
 * 面向LOD的关联发现过程的定位、目标与复杂性分析. 沈志宏,黎建辉,张晓林. 中国图书馆学报. 2013(6) <https://bluejoe2008.github.io/Insights_into_Link_Discovery_Process_for_Linked_Open_Data.pdf>
 * 关联数据互联技术研究综述:应用、方法与框架. 沈志宏,黎建辉,张晓林. 图书情报工作. 2013(14) <https://bluejoe2008.github.io/Research_Review_on_the_Interlinking_Technology_of_Linked_Data.pdf>
