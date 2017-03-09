@@ -108,3 +108,7 @@ __研究兴趣__：科学数据管理与集成，关联数据，语义网，大�
 * 开源主页: <https://github.com/bluejoe2008>
 * CSDN博客: <http://blog.csdn.net/bluejoe2000>
 * 在线留言: <https://github.com/bluejoe2008/bluejoe2008.github.io/issues>
+
+<!-- start http://count.knowsky.com -->
+访问计数：<script src="http://count.knowsky.com/count1/count.asp?id=83705&sx=1&ys=43" language="JavaScript" charset="gb2312"></script>
+<!-- Powered by http://www.knowsky.com -->
