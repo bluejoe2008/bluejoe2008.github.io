@@ -1,4 +1,4 @@
-![](bluejoe2.png)
+![](bluejoe1.png)
 
 ###沈志宏（网名白乔）  
 
