@@ -64,12 +64,14 @@ __研究兴趣__：科学数据管理与集成，关联数据，语义网，大�
 
 ###学术论文
 * Personalized microblog recommendation using sentimental features. Wenjuan Cui; Yi Du; Zhihong Shen; Yuanchun Zhou; Jianhui Li. 2017 IEEE International Conference on Big Data and Smart Computing (BigComp)
+<https://bluejoe2008.github.io/Personalized_Microblog_Recommendation_Using_Sentimental_Features.pdf>
 * 科学大数据管理：概念、技术与系统. 黎建辉,沈志宏,孟小峰. 计算机研究与发展. 2017(2) <https://bluejoe2008.github.io/Scientific_Big_Data_Management_Concepts,_Technologies_and_System.pdf>
 * 基于NoSQL的RDF数据存储与查询技术综述. 王林彬,黎建辉,沈志宏. 计算机应用研究. 2015(5) <https://bluejoe2008.github.io/Overview_of_NoSQL_databases_for_large_scaled_RDF_data_management.pdf>
 * 面向LOD的关联发现过程的定位、目标与复杂性分析. 沈志宏,黎建辉,张晓林. 中国图书馆学报. 2013(6) <https://bluejoe2008.github.io/Insights_into_Link_Discovery_Process_for_Linked_Open_Data.pdf>
 * 关联数据互联技术研究综述:应用、方法与框架. 沈志宏,黎建辉,张晓林. 图书情报工作. 2013(14) <https://bluejoe2008.github.io/Research_Review_on_the_Interlinking_Technology_of_Linked_Data.pdf>
 * F2R: Publishing file systems as Linked Data. Shaopeng He; Jianhui Li; Zhihong Shen
 2013 10th International Conference on Fuzzy Systems and Knowledge Discovery (FSKD)
+<https://bluejoe2008.github.io/F2R_Publishing_File_Systems_as_Linked_Data.pdf>
 * A cloud Computation Architecture for Unconventional Emergency Management. Jianhui Li,Yuanchun Zhou,Wei Shang,Cungen Cao,Zhihong Shen,Fenglei Yang,Xiao Xiao,Danhuai Guo. In: WAIM2013
 * 关联数据发布流程与关键问题研究——以科技文献、科学数据的发布为例. 沈志宏,刘筱敏,郭学兵等.中国图书馆学报. 2013(2) <https://bluejoe2008.github.io/A_Research_on_Publishing_Workflow_and_Key_Issues_of_Linked_Data.pdf>
 * 面向科学数据的PageRank排序算法. 黎建辉,兰金松,沈志宏等. 计算机科学与探索. 2013(06) <https://bluejoe2008.github.io/PageRank_Algorithm_for_Scientific_Data_Ranking.pdf>
@@ -85,6 +87,7 @@ __研究兴趣__：科学数据管理与集成，关联数据，语义网，大�
 * 基于规则的土壤数据校验模型研究与实现. 张仁,沈志宏,黎建辉,施建平. 计算机系统应用. 2010(08)
 * 支持科学数据专业类型的统一检索框架. 史晓磊,沈志宏,黎建辉. 计算机系统应用. 2010(12)
 * Design and Implementation of an XML-Based Universal Mobile Data Acquisition System. Zhiyi Huang; Qingling Chang; Zhihong Shen; Yuanchun Zhou; Baoping Yan; Lei Liu. 2009 Fifth International Conference on Semantics, Knowledge and Grid
+<https://bluejoe2008.github.io/Design_and_Implementation_of_an_XML-Based_Universal_Mobile_Data_Acquisition_System.pdf>
 * 信息系统访问控制的层次模型. 吴开超,沈志宏,周园春,阎保平. 计算机工程与设计. 2009(01) <https://bluejoe2008.github.io/Hierarchy_model_of_access_control_in_information_system.pdf>
 * 访问控制聚合模型研究. 吴开超,沈志宏,周园春,阎保平. 微电子学与计算机. 2009(01)
 * 基于元目录的数据管理模型的研究与实现. 王建芳,阎保平,吴开超,沈志宏. 计算机工程. 2007(10)
