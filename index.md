@@ -86,7 +86,7 @@ __研究兴趣__：科学数据管理与集成，关联数据，语义网，大�
 * 关联数据及其应用现状综述. 沈志宏,张晓林. 现代图书情报技术. 2010(1):1-9 <https://bluejoe2008.github.io/Linked_Data_and_Its_Applications.pdf>
 * 基于规则的土壤数据校验模型研究与实现. 张仁,沈志宏,黎建辉,施建平. 计算机系统应用. 2010(08)
 * 支持科学数据专业类型的统一检索框架. 史晓磊,沈志宏,黎建辉. 计算机系统应用. 2010(12)
-* Design and Implementation of an XML-Based Universal Mobile Data Acquisition System. Zhiyi Huang; Qingling Chang; Zhihong Shen; Yuanchun Zhou; Baoping Yan; Lei Liu. 2009 Fifth International Conference on Semantics, Knowledge and Grid
+* Design and Implementation of an XML-Based Universal Mobile Data Acquisition System. Zhiyi Huang; Qingling Chang; Zhihong Shen; Yuanchun Zhou; Baoping Yan; Lei Liu. 2009 Fifth International Conference on Semantics, Knowledge and Grid 
 <https://bluejoe2008.github.io/Design_and_Implementation_of_an_XML-Based_Universal_Mobile_Data_Acquisition_System.pdf>
 * 信息系统访问控制的层次模型. 吴开超,沈志宏,周园春,阎保平. 计算机工程与设计. 2009(01) <https://bluejoe2008.github.io/Hierarchy_model_of_access_control_in_information_system.pdf>
 * 访问控制聚合模型研究. 吴开超,沈志宏,周园春,阎保平. 微电子学与计算机. 2009(01)
