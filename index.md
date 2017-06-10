@@ -94,6 +94,7 @@ __研究兴趣__：科学数据管理与集成，关联数据，语义网，大�
 
 ###口头报告
 
+* 关联大数据的技术挑战、对策与实践. 数据分析与知识发现学术研讨会. 2017/6/9. 北京
 * 技术架构变迁：从SQL到大数据时代. COINFO2016. 2016/10/16. 北京
 * Publishing and Linking Scientific Data. 2nd Annual CHANGES Workshop Data Driven Science: "Data Management, Analytics and Visualization“. Sep. 10, 2013. Chicago, US
 * Interoperation between Scientific Data and Literature : An overview. CODATA: data science workshop. Oct 25, 2012. Shanghai, China
