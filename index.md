@@ -58,6 +58,9 @@
 * VisualDB可视化关系数据库管理发布系统V1.0. 2008SRBJ2786. 2008-09-12. 沈志宏,史晓磊
 
 ###学术论文
+* Liang Li, Zhihong Shen, Jianhui Li, Dongjiang Liu, Huajin Wang, Lipeng Wang, Qinglan Sun:
+A Resilient Index Graph for Querying Large Biological Scientific Data. BigData Congress 2017: 435-443
+<https://bluejoe2008.github.io/A_Resilient_Index_Graph_for_Querying_Large_Biological_Scientific_Data.pdf>
 * Personalized microblog recommendation using sentimental features. Wenjuan Cui; Yi Du; Zhihong Shen; Yuanchun Zhou; Jianhui Li. 2017 IEEE International Conference on Big Data and Smart Computing (BigComp)
 <https://bluejoe2008.github.io/Personalized_Microblog_Recommendation_Using_Sentimental_Features.pdf>
 * 科学大数据管理：概念、技术与系统. 黎建辉,沈志宏,孟小峰. 计算机研究与发展. 2017(2) <https://bluejoe2008.github.io/Scientific_Big_Data_Management_Concepts,_Technologies_and_System.pdf>
