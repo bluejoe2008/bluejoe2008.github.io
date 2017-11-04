@@ -92,6 +92,8 @@ A Resilient Index Graph for Querying Large Biological Scientific Data. BigData C
 
 ###口头报告
 
+* 开放科学数据的新发展与新挑战. 2017年中国开放获取推介周(2017 China Open Access Week). 2017/10/23. 北京
+* 科学大数据管理系统集成框架. 第34届中国数据库学术会议. 2017/10/21. 杭州
 * 关联大数据的技术挑战、对策与实践. 数据分析与知识发现学术研讨会. 2017/6/9. 北京
 * 技术架构变迁：从SQL到大数据时代. COINFO2016. 2016/10/16. 北京
 * Publishing and Linking Scientific Data. 2nd Annual CHANGES Workshop Data Driven Science: "Data Management, Analytics and Visualization“. Sep. 10, 2013. Chicago, US
