@@ -51,7 +51,7 @@
         },
 
         function (callback) {
-            browser.search([{name: "贾宝玉"}, {name: "薛蟠"}], function (nodes) {
+            browser.search([{label: "贾宝玉"}, {label: "薛蟠"}], function (nodes) {
                 browser.insertNodes(nodes);
                 browser.placeNodes(nodes.map(function (node) {
                     return node.id;

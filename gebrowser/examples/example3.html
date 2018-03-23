@@ -61,6 +61,13 @@
                     }
                 });
 
+        browser.updateTheme(function (theme) {
+            //theme.networkOptions.nodes.physics=false;
+            theme.networkOptions.edges.physics = false;
+            theme.networkOptions.physics.timestep = 0.1;
+            //theme.networkOptions.edges.smooth = false;
+        });
+
         console.log(browser);
         var selectedNodes = [];
         var nodeIds = [];
@@ -71,29 +78,35 @@
             },
 
             function (callback) {
-                browser.search([{name: "贾宝玉"}, {name: "薛蟠"}], function (nodes) {
+                browser.search([{label: "贾宝玉"}, {label: "薛蟠"}], function (nodes) {
                     selectedNodes = nodes;
                     browser.insertNodes(nodes);
                     nodeIds = selectedNodes.map(function (node) {
                         return node.id;
                     });
                     browser.placeNodes(nodeIds);
+                    browser._nodes.update(nodeIds.map(function (nodeId) {
+                        return {id: nodeId, physics: false};
+                    }));
                     callback();
                 });
             }
         ]);
 
         $("#findRelations").click(function () {
-            browser.deleteNodes();
-            browser.insertNodes(selectedNodes);
-            browser.placeNodes(nodeIds);
+            browser.deleteNodes(function (node) {
+                return nodeIds.indexOf(node.id) < 0;
+            });
+
+            //browser.placeNodes(nodeIds);
+            //browser.fixNodes(nodeIds);
             browser.ctrlRelFinder.startQuery(nodeIds, $("#slider").slider("value"), $("#spinner").val());
         });
 
         $("#slider").slider({
-            value: 200,
+            value: 500,
             min: 50,
-            max: 1000,
+            max: 10000,
             slide: function (event, ui) {
                 $("#amount").val(ui.value + "ms");
             }
