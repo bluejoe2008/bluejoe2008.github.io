@@ -56,8 +56,8 @@
     grapheco.i18n.setLanguage("chs");
 
     var browser = new grapheco.GraphBrowser(
-            //igraph.GsonSource.fromObject(gson),
-            grapheco.GsonSource.fromFile("honglou.json"),
+            //grapheco.GraphRAM.fromGson(gson),
+            grapheco.GraphRAM.fromGsonFile("honglou.json"),
             document.getElementById('graphArea'), {
                 showGraphOptions: {
                     showLabels: true,
@@ -71,7 +71,7 @@
     console.log(browser);
 
     //use async.series to make serial calls
-    browser.chained([
+    browser.pipe([
         function (callback) {
             browser.init(callback);
         },
