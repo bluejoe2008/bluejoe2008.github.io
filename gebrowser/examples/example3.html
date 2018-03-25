@@ -12,6 +12,7 @@
     <style type="text/css">
         body {
             margin: 0px;
+            font-size: 14px;
         }
 
         #graphArea {
@@ -23,15 +24,16 @@
 </head>
 
 <body>
-<div style="height:90%">
+<div style="height:92%">
     <div id="graphArea"></div>
 </div>
 <div style="margin-top:10px">
     <div>
         <div style="width:150px;float: left;">
-            <input id="findRelations" type="button" style="height: 40px;background-color: dodgerblue;color: white;"
+            <input id="findRelations" type="button" style="height: 30px;background-color: dodgerblue;color: white;"
                    value="find relations">
-            <input id="stopQuery" type="button" value="stop">
+            <input id="stopQuery" type="button" value="stop"
+                   style="height: 30px;background-color: orangered;color: white;">
         </div>
         <div style="width:600px;float: left;">
             <div style="width:200px;float:left;">
@@ -62,10 +64,9 @@
                 });
 
         browser.updateTheme(function (theme) {
-            //theme.networkOptions.nodes.physics=false;
             theme.networkOptions.edges.physics = false;
+            theme.networkOptions.edges.length = 0.5;
             theme.networkOptions.physics.timestep = 0.1;
-            //theme.networkOptions.edges.smooth = false;
         });
 
         console.log(browser);
@@ -98,9 +99,8 @@
                 return nodeIds.indexOf(node.id) < 0;
             });
 
-            //browser.placeNodes(nodeIds);
-            //browser.fixNodes(nodeIds);
-            browser.ctrlRelFinder.startQuery(nodeIds, $("#slider").slider("value"), $("#spinner").val());
+            browser.ctrlRelFinder.startQuery(nodeIds, $("#slider").slider("value"),
+                    $("#spinner").val());
         });
 
         $("#slider").slider({

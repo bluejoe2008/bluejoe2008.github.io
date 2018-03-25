@@ -57,10 +57,11 @@
 
     var browser = new grapheco.GraphBrowser(
             //grapheco.GraphRAM.fromGson(gson),
-            grapheco.GraphRAM.fromGsonFile("honglou.json"),
-            //grapheco.GraphRAM.fromGsonFile("WorldCup2014.json"),
+            //grapheco.GraphRAM.fromGsonFile("honglou.json"),
+            grapheco.GraphRAM.fromGsonFile("WorldCup2014.json"),
             document.getElementById('graphArea'), {
                 hideUnselectedEdgeLabel: true,
+                edgeColorInherit: 'from',
                 showGraphOptions: {
                     showLabels: true,
                     showTitles: true,
@@ -97,10 +98,6 @@
             }
 
             browser.loadGraph(callback);
-        },
-
-        function (callback) {
-            browser.scaleTo(0.85);
         }
     ]);
 

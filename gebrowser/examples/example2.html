@@ -56,6 +56,9 @@
                 browser.placeNodes(nodes.map(function (node) {
                     return node.id;
                 }));
+                browser._nodes.update(nodes.map(function (node) {
+                    return {id: node.id, physics: false};
+                }));
                 callback();
             });
         }
