@@ -51,7 +51,6 @@
         grapheco.i18n.setLanguage("chs");
 
         var browser = new grapheco.GraphBrowser(
-                grapheco.GraphRAM.fromGsonFile("honglou.json"),
                 document.getElementById('graphArea'), {
                     enableRelFinderCtrl: true,
                     showGraphOptions: {
@@ -75,7 +74,8 @@
         //use async.series to make serial calls
         browser.pipe([
             function (callback) {
-                browser.init(callback);
+                browser.connect(grapheco.LocalGraph.fromGsonFile("honglou.json"),
+                        callback);
             },
 
             function (callback) {
@@ -86,8 +86,8 @@
                         return node.id;
                     });
                     browser.placeNodes(nodeIds);
-                    browser._nodes.update(nodeIds.map(function (nodeId) {
-                        return {id: nodeId, physics: false};
+                    browser.updateNodes(nodes.map(function (node) {
+                        return {id: node.id, physics: false};
                     }));
                     callback();
                 });
@@ -99,7 +99,7 @@
                 return nodeIds.indexOf(node.id) < 0;
             });
 
-            browser.ctrlRelFinder.startQuery(nodeIds, $("#slider").slider("value"),
+            browser.ctrls.relFinder.startQuery(nodeIds, $("#slider").slider("value"),
                     $("#spinner").val());
         });
 

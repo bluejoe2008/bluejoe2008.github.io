@@ -56,9 +56,6 @@
     grapheco.i18n.setLanguage("chs");
 
     var browser = new grapheco.GraphBrowser(
-            //grapheco.GraphRAM.fromGson(gson),
-            grapheco.GraphRAM.fromGsonFile("honglou.json"),
-            //grapheco.GraphRAM.fromGsonFile("WorldCup2014.json"),
             document.getElementById('graphArea'), {
                 hideUnselectedEdgeLabel: true,
                 showGraphOptions: {
@@ -76,7 +73,11 @@
     //use async.series to make serial calls
     browser.pipe([
         function (callback) {
-            browser.init(callback);
+            browser.connect(
+                    grapheco.LocalGraph.fromGsonFile("honglou.json"),
+                    //grapheco.LocalGraph.fromGsonFile("WorldCup2014.json"),
+                    //grapheco.LocalGraph.fromGson(gson),
+                    callback);
         },
 
         function (callback) {
@@ -89,18 +90,17 @@
                         .attr("type", "checkbox")
                         .attr("checked", true)
                         .click(function () {
-                            browser.showNodesOfClass($(this).attr("key"), $(this).prop('checked'));
+                            browser.showNodesOfCategory($(this).attr("key"), $(this).prop('checked'));
                         });
                 $(label).attr("for", "checkbox_" + key).text(map[key]);
                 $("#labelSelection").append(check);
                 $("#labelSelection").append(label);
             }
-
-            browser.loadGraph(callback);
+            callback();
         },
 
         function (callback) {
-            browser.scaleTo(0.85);
+            browser.load({scale: 0.85}, callback);
         }
     ]);
 
@@ -116,7 +116,9 @@
 
     $("#showDegrees").click(function () {
         var checked = $("#showDegrees").prop('checked');
-        browser.showDegrees(checked);
+        browser.updateGraph(function (options) {
+            options.showDegrees = checked;
+        });
     });
 
     $("#showShadow").click(function () {
@@ -128,12 +130,16 @@
 
     $("#showEdges").click(function () {
         var checked = $("#showEdges").prop('checked');
-        browser.showEdges(checked);
+        browser.updateGraph(function (options) {
+            options.showEdges = checked;
+        });
     });
 
     $("#showFaces").click(function () {
         var checked = $("#showFaces").prop('checked');
-        browser.showFaces(checked);
+        browser.updateGraph(function (options) {
+            options.showFaces = checked;
+        });
     });
 
     $("#themeSelect").change(function () {
