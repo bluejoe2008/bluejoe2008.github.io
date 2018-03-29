@@ -98,6 +98,7 @@ A Resilient Index Graph for Querying Large Biological Scientific Data. BigData C
 * 技术架构变迁：从SQL到大数据时代. COINFO2016. 2016/10/16. 北京
 * Publishing and Linking Scientific Data. 2nd Annual CHANGES Workshop Data Driven Science: "Data Management, Analytics and Visualization“. Sep. 10, 2013. Chicago, US
 * Interoperation between Scientific Data and Literature : An overview. CODATA: data science workshop. Oct 25, 2012. Shanghai, China
+<https://bluejoe2008.github.io/Interoperation_of_Data_and_Literature.pdf>
 * Managing and Linking Scientific Data on the Web via VisualDB. The First ICSU World Data System Conference. Sep 5, 2011. Kyoto, Japan
 * VisualDB: A Visual Relational Database Management and Publishing System. The First WDCM Seminar. May 17-18, 2011 . Beijing, China
 * Publishing Scientific Data as Linked Data. Sino-German Training Workshop on Open Access. Mar, 2014. Beijing, China
