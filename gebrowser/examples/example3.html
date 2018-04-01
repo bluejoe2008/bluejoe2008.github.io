@@ -49,57 +49,13 @@
     </div>
     <script type="text/javascript">
         grapheco.i18n.setLanguage("chs");
-
-        var browser = new grapheco.GraphBrowser(
-                document.getElementById('graphArea'), {
-                    enableRelFinderCtrl: true,
-                    showGraphOptions: {
-                        showLabels: true,
-                        showFaces: true,
-                        showDegrees: true,
-                        showEdges: true,
-                        showGroups: true
-                    }
-                });
-
-        browser.updateTheme(function (theme) {
-            theme.networkOptions.edges.physics = false;
-            theme.networkOptions.edges.length = 0.5;
-            theme.networkOptions.physics.timestep = 0.1;
+        var app = new grapheco.RelationFinder(document.getElementById('graphArea'));
+        app.loadGson("honglou.json", function () {
+            app.pickup([{label: "贾宝玉"}, {label: "薛蟠"}]);
         });
 
-        console.log(browser);
-        var selectedNodes = [];
-        var nodeIds = [];
-        //use async.series to make serial calls
-        browser.pipe([
-            function (callback) {
-                browser.connect(grapheco.LocalGraph.fromGsonFile("honglou.json"),
-                        callback);
-            },
-
-            function (callback) {
-                browser.search([{label: "贾宝玉"}, {label: "薛蟠"}], function (nodes) {
-                    selectedNodes = nodes;
-                    browser.insertNodes(nodes);
-                    nodeIds = selectedNodes.map(function (node) {
-                        return node.id;
-                    });
-                    browser.placeNodes(nodeIds);
-                    browser.updateNodes(nodes.map(function (node) {
-                        return {id: node.id, physics: false};
-                    }));
-                    callback();
-                });
-            }
-        ]);
-
         $("#findRelations").click(function () {
-            browser.deleteNodes(function (node) {
-                return nodeIds.indexOf(node.id) < 0;
-            });
-
-            browser.ctrls.relFinder.startQuery(nodeIds, $("#slider").slider("value"),
+            app.startQuery($("#slider").slider("value"),
                     $("#spinner").val());
         });
 
@@ -118,7 +74,7 @@
 
         $("#amount").val("" + $("#slider").slider("value") + "ms");
         $("#stopQuery").click(function () {
-            browser.ctrlRelFinder.stopQuery();
+            app.stopQuery();
         });
     </script>
 </body>

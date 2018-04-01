@@ -28,43 +28,10 @@
 </div>
 <script type="text/javascript">
     grapheco.i18n.setLanguage("chs");
-
-    var browser = new grapheco.GraphBrowser(
-            document.getElementById('graphArea'), {
-                enableExpansionCtrl: true,
-                showGraphOptions: {
-                    showLabels: true,
-                    showFaces: true,
-                    showDegrees: true,
-                    showEdges: true,
-                    showGroups: true
-                }
-            });
-
-    console.log(browser);
-
-    //use async.series to make serial calls
-    browser.pipe([
-        function (callback) {
-            browser.connect(grapheco.LocalGraph.fromGsonFile("honglou.json"),
-                    callback);
-        },
-
-        function (callback) {
-            browser.search([{label: "贾宝玉"}, {label: "薛蟠"}], function (nodes) {
-                browser.insertNodes(nodes);
-                browser.placeNodes(nodes.map(function (node) {
-                    return node.id;
-                }));
-
-                browser.updateNodes(nodes.map(function (node) {
-                    return {id: node.id, physics: false};
-                }));
-
-                callback();
-            });
-        }
-    ]);
+    var app = new grapheco.GraphExplorer(document.getElementById('graphArea'));
+    app.loadGson("honglou.json", function () {
+        app.pickup([{label: "贾宝玉"}, {label: "薛蟠"}]);
+    });
 </script>
 </body>
 

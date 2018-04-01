@@ -23,130 +23,16 @@
 </head>
 
 <body>
-<div style="height:95%">
+<div style="height:100%">
     <div id="graphArea"></div>
-</div>
-<div style="margin-top:10px">
-    <div style="float:left">
-        <select id="themeSelect">
-            <option value="DEFAULT">THEME_DEFAULT</option>
-            <option value="BLACK">THEME_BLACK</option>
-        </select>
-    </div>
-    <div style="float:left">
-        <div style="float:left;margin-left: 10px">scale:</div>
-        <div style="float:left; width: 150pt;margin-right: 10px" id="slider"></div>
-    </div>
-
-    <div style="float:left">
-        <input type="checkbox" id="showFaces" checked>
-        <label for="showFaces">show faces</label>
-        <input type="checkbox" id="showDegrees" checked>
-        <label for="showDegrees">show degrees</label>
-        <input type="checkbox" id="showEdges" checked>
-        <label for="showEdges">show edges</label>
-        <input type="checkbox" id="showShadow">
-        <label for="showShadow">show shadow</label>
-    </div>
-
-    <div style="float:right" id="labelSelection" align="right"></div>
 </div>
 
 <script type="text/javascript">
     grapheco.i18n.setLanguage("chs");
-
-    var browser = new grapheco.GraphBrowser(
-            document.getElementById('graphArea'), {
-                hideUnselectedEdgeLabel: true,
-                showGraphOptions: {
-                    showLabels: true,
-                    showTitles: true,
-                    showFaces: true,
-                    showDegrees: true,
-                    showEdges: true,
-                    showGroups: true
-                }
-            });
-
-    console.log(browser);
-
-    //use async.series to make serial calls
-    browser.pipe([
-        function (callback) {
-            browser.connect(
-                    grapheco.LocalGraph.fromGsonFile("honglou.json"),
-                    //grapheco.LocalGraph.fromGsonFile("WorldCup2014.json"),
-                    //grapheco.LocalGraph.fromGson(gson),
-                    callback);
-        },
-
-        function (callback) {
-            var map = browser.getMapName2Class();
-            for (var key in map) {
-                var check = document.createElement("input");
-                var label = document.createElement("label");
-                $(check).attr("id", "checkbox_" + key)
-                        .attr("key", key)
-                        .attr("type", "checkbox")
-                        .attr("checked", true)
-                        .click(function () {
-                            browser.showNodesOfCategory($(this).attr("key"), $(this).prop('checked'));
-                        });
-                $(label).attr("for", "checkbox_" + key).text(map[key]);
-                $("#labelSelection").append(check);
-                $("#labelSelection").append(label);
-            }
-            callback();
-        },
-
-        function (callback) {
-            browser.load({scale: 0.85}, callback);
-        }
-    ]);
-
-    $("#slider").slider({
-        value: 80,
-        min: 5,
-        max: 100,
-        step: 5,
-        slide: function (event, ui) {
-            browser.scaleTo(ui.value / 100);
-        }
+    var app = new grapheco.GraphNavigator(document.getElementById('graphArea'));
+    app.loadGson("honglou.json", function () {
+        app.showGraph({scale: 0.85});
     });
-
-    $("#showDegrees").click(function () {
-        var checked = $("#showDegrees").prop('checked');
-        browser.updateGraph(function (options) {
-            options.showDegrees = checked;
-        });
-    });
-
-    $("#showShadow").click(function () {
-        var checked = $("#showShadow").prop('checked');
-        browser.updateTheme(function (theme) {
-            theme.networkOptions.nodes.shadow = checked;
-        });
-    });
-
-    $("#showEdges").click(function () {
-        var checked = $("#showEdges").prop('checked');
-        browser.updateGraph(function (options) {
-            options.showEdges = checked;
-        });
-    });
-
-    $("#showFaces").click(function () {
-        var checked = $("#showFaces").prop('checked');
-        browser.updateGraph(function (options) {
-            options.showFaces = checked;
-        });
-    });
-
-    $("#themeSelect").change(function () {
-        var value = $("#themeSelect").val();
-        var func = grapheco.Themes[value];
-        browser.updateTheme(func());
-    })
 </script>
 </body>
 
