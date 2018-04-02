@@ -30,6 +30,7 @@
 <script type="text/javascript">
     grapheco.i18n.setLanguage("chs");
     var app = new grapheco.GraphNavigator(document.getElementById('graphArea'));
+    console.log(app);
     app.loadGson("honglou.json", function () {
         app.showGraph({scale: 0.85});
     });
