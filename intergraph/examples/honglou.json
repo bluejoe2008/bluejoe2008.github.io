@@ -4,9 +4,28 @@
     "event": "事件",
     "location": "地点"
   },
+  "translator": {
+    "nodes": function (node) {
+      //set description
+      if (node.description === undefined) {
+        var description = "<p align=center>";
+        if (node.image !== undefined) {
+          description += "<img src='" + node.image + "' width=150/><br>";
+        }
+        description += "<b>" + node.label + "</b>" + "[" + node.id + "]";
+        description += "</p>";
+        if (node.info !== undefined) {
+          description += "<p align=left>" + node.info + "</p>";
+        } else {
+          if (node.title !== undefined)
+            description += "<p align=left>" + node.title + "</p>";
+        }
+        node.description = description;
+      }
+    },
+  },
   "data": {
-    "nodes": [
-      {
+    "nodes": [{
         "label": "共读西厢",
         "value": 2,
         "id": 3779,
@@ -3062,8 +3081,7 @@
         "info": "传说中的美女仙，还传说是贾宝玉和林黛玉的第二世情缘，是绛珠仙子在“五衷内对神瑛侍者郁结着缠绵不尽之意”，一心回报神瑛侍者的灌溉之恩。"
       }
     ],
-    "edges": [
-      {
+    "edges": [{
         "id": 3776,
         "label": "位于",
         "from": 3838,
