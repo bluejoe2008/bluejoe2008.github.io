@@ -3,8 +3,8 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <title>RelationFinder</title>
-    <script type="text/javascript" src="../dist/intergraph.js"></script>
-    <link type="text/css" rel="stylesheet" href="../dist/intergraph.css">
+    <script type="text/javascript" src="./lib/interactive-graph-0.1.0/interactive-graph.min.js"></script>
+    <link type="text/css" rel="stylesheet" href="./lib/interactive-graph-0.1.0/interactive-graph.min.css">
     <script src="./lib/jquery-3.2.1/jquery-3.2.1.min.js"></script>
     <script src="./lib/jquery-3.2.1/jquery-ui.js"></script>
     <link rel="stylesheet" href="./lib/jquery-3.2.1/jquery-ui.css">
@@ -24,16 +24,20 @@
 </head>
 
 <body>
-<div style="height:100%">
-    <div id="graphArea"></div>
-</div>
-<script type="text/javascript">
-    intergraph.i18n.setLanguage("chs");
-    var app = new intergraph.RelationFinder(document.getElementById('graphArea'));
-    app.loadGson("honglou.json", function () {
-        app.pickup([{label: "贾宝玉"}, {label: "薛蟠"}]);
-    });
-</script>
+    <div style="height:100%">
+        <div id="graphArea"></div>
+    </div>
+    <script type="text/javascript">
+        igraph.i18n.setLanguage("chs");
+        var app = new igraph.RelationFinder(document.getElementById('graphArea'));
+        app.loadGson("honglou.json", function () {
+            app.pickup([{
+                label: "贾宝玉"
+            }, {
+                label: "薛蟠"
+            }]);
+        });
+    </script>
 </body>
 
 </html>

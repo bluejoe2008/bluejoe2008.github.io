@@ -3,8 +3,8 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <title>GraphNavigator</title>
-    <script type="text/javascript" src="../dist/intergraph.js"></script>
-    <link type="text/css" rel="stylesheet" href="../dist/intergraph.css">
+    <script type="text/javascript" src="./lib/interactive-graph-0.1.0/interactive-graph.min.js"></script>
+    <link type="text/css" rel="stylesheet" href="./lib/interactive-graph-0.1.0/interactive-graph.min.css">
     <script src="./lib/jquery-3.2.1/jquery-3.2.1.min.js"></script>
     <link rel="stylesheet" href="./lib/jquery-3.2.1/jquery-ui.css">
     <script src="./lib/jquery-3.2.1/jquery-ui.js"></script>
@@ -29,8 +29,8 @@
 </div>
 
 <script type="text/javascript">
-    intergraph.i18n.setLanguage("chs");
-    var app = new intergraph.GraphNavigator(document.getElementById('graphArea'));
+    igraph.i18n.setLanguage("chs");
+    var app = new igraph.GraphNavigator(document.getElementById('graphArea'));
     console.log(app);
     app.loadGson("honglou.json");
 </script>
