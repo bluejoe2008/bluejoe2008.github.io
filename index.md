@@ -1,6 +1,7 @@
 <!-- vscode-markdown-toc -->
 * [个人简介](#)
 * [承担项目](#-1)
+* [开源软件](#-1)
 * [软件研发编著](#-1)
 * [学术编著、译著](#-1)
 * [授权专利](#-1)
@@ -36,7 +37,7 @@
 * 所主任基金项目“基于LOD的古籍信息发布与关联发现系统”,项目负责人,2013-2014
 * 所青年基金项目“基于规则引擎的科学数据质量校验”,项目负责人,2009
 
-###开源软件
+## <a name='-1'></a>开源软件
 * __InteractiveGraph__: InteractiveGraph provides a web-based interactive operating framwork for large graph data, which may come from a GSON file, or an online Neo4j graph database
 * __pistack__: 科学大数据全生命周期管理系统，支持天文数据、高能物理数据、生物数据等的管理与在线分析
 * __spark-http-stream__: 

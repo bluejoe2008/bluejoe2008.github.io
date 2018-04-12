@@ -1,0 +1,19 @@
+{
+  "name": "npm-build-index",
+  "version": "1.0.0",
+  "scripts": {
+      "build": "github-markdown index.md --title \"Zhihong SHEN's home page\" --stylesheet \"./styles.css\">index.html"
+  },
+  "main": "jquery-1.10.2.min.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bluejoe2008/bluejoe2008.github.io.git"
+  },
+  "author": "bluejoe2008@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bluejoe2008/bluejoe2008.github.io/issues"
+  },
+  "homepage": "https://github.com/bluejoe2008/bluejoe2008.github.io#readme",
+  "description": ""
+}
