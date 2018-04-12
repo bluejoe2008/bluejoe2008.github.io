@@ -1,48 +1,71 @@
+<!-- vscode-markdown-toc -->
+* [个人简介](#)
+* [承担项目](#-1)
+* [软件研发编著](#-1)
+* [学术编著、译著](#-1)
+* [授权专利](#-1)
+* [软件著作权](#-1)
+* [学术论文](#-1)
+* [口头报告](#-1)
+* [获得奖励](#-1)
+* [联系方式](#-1)
+
+<!-- vscode-markdown-toc-config
+	numbering=false
+	autoSave=true
+	/vscode-markdown-toc-config -->
+<!-- /vscode-markdown-toc -->
+
 ![](bluejoe3.png)
 
-###沈志宏（网名白乔）  
+## <a name=''></a>个人简介
 
 沈志宏，正高级工程师，博士，硕士生导师，现任中国科学院计算机网络信息中心大数据应用服务技术实验室主任，大数据分析与计算技术国家地方联合工程实验室总工程师，研究方向为大数据管理与处理、关联数据与语义Web。目前主持国家重点研发计划“科学大数据管理系统”课题，曾经作为技术骨干参与中科院“十一五”“十二五”信息化项目、中科院先导专项、国家基础条件平台项目等。主持开发分布式数据管理发布系统VisualDB、科学数据搜索引擎Voovle等软件系统，软件著作权12项，授权发明专利4项，在国内外重要刊物及会议发表学术论文25余篇，学术编著1部，译著1部。
 
-###承担项目
-
+## <a name='-1'></a>承担项目
+* 中国烟草总公司科技重大专项项目"烟草科研大数据总体架构和异构资源智能调度关键技术研究",项目负责人,2018-2019
 * 国家自然科学基金大数据知识管理服务平台,项目经理,2017
+* 中国科学院信息化专项"科学大数据工程"课题"科学大数据管理与分析平台建设",课题负责人,2016-2020
 * 国家重点研发计划“科学大数据管理系统”课题“系统集成与应用示范”,课题负责人,2016-2019
 * 广州XX信息技术公司合作项目“航道大数据管理系统研发”,项目经理,2016-2017
-* 主持中科院十二五信息化专项“科技数据资源整合与共享工程”子课题“科学数据管理与共享云服务平台”,2012-2015
-* 参与中科院先导专项“面向感知中国的新一代信息技术研究”课题“异质异类海量多元数据资源融合管理与服务”,2012-2016
-* 主持国家基础条件平台项目“基础科学数据共享网——理化天文空间生物”子课题“共享服务平台软件”,2009-2012
-* 主持国家基础条件平台项目“国家生态系统观测研究网络CERN运行服务”子课题“国家生态系统观测研究网络平台建设”,2013-2014
-* 主持所一三五培育项目“科研大数据资源管理与服务平台及其关键技术”,2014-2015
-* 主持所主任基金项目“基于LOD的古籍信息发布与关联发现系统”,2013-2014
-* 主持所青年基金项目“基于规则引擎的科学数据质量校验”,2009
+* 中科院十二五信息化专项“科技数据资源整合与共享工程”子课题“科学数据管理与共享云服务平台”,子课题负责人,2012-2015
+* 中科院先导专项“面向感知中国的新一代信息技术研究”课题“异质异类海量多元数据资源融合管理与服务”,专题负责人,2012-2016
+* 国家基础条件平台项目“基础科学数据共享网——理化天文空间生物”子课题“共享服务平台软件”,子课题负责人,2009-2012
+* 国家基础条件平台项目“国家生态系统观测研究网络CERN运行服务”子课题“国家生态系统观测研究网络平台建设”,子课题负责人,2013-2014
+* 所一三五培育项目“科研大数据资源管理与服务平台及其关键技术”,项目负责人,2014-2015
+* 所主任基金项目“基于LOD的古籍信息发布与关联发现系统”,项目负责人,2013-2014
+* 所青年基金项目“基于规则引擎的科学数据质量校验”,项目负责人,2009
 
 ###开源软件
-* pistack: 科学大数据全生命周期管理系统，支持天文数据、高能物理数据、生物数据等的管理与在线分析
-* elfinder-servlet-2.x: elfinder文件管理器Java后端
-* solr-sql: 针对solr cloud的sql接口封装
-* openwebflow: 基于Activiti的工作流引擎扩展，允许自定义用户信息及权限设计
+* __InteractiveGraph__: InteractiveGraph provides a web-based interactive operating framwork for large graph data, which may come from a GSON file, or an online Neo4j graph database
+* __pistack__: 科学大数据全生命周期管理系统，支持天文数据、高能物理数据、生物数据等的管理与在线分析
+* __spark-http-stream__: 
+spark structured streaming via HTTP communication
+* __elfinder-servlet-2.x__: 
+elfinder-2.x-servlet implements a java servlet for elfinder-2.x connector, elfinder is an Open-source file manager for web
+* __solr-sql__: sql interface for solr cloud
+* __openwebflow__: 基于Activiti的工作流引擎扩展，接管了Activiti对活动权限以及用户表的管理，并提供了催办、代办、加签（包括前加签/后加签）、自由跳转、分裂节点等功能
 * ...
 
-###软件研发编著
+## <a name='-1'></a>软件研发编著
 
 * 标准C++开发入门与编程实践. 2007年12月. 电子工业出版社. ISBN:9787121052279
 * Java6从入门到精通. 2008年. 电子工业出版社. ISBN:9787121062179
 * 把脉VC++. 2009年7月. 电子工业出版社. ISBN:9787121086175
 
-###学术编著、译著
+## <a name='-1'></a>学术编著、译著
 
 * 大数据时代的科研活动. 2014年. 科学出版社. ISBN:9787030401830
 * 第四范式：数据密集型科学发现. 2012年. 科学出版社. ISBN:9787030347251
 
-###授权专利
+## <a name='-1'></a>授权专利
 
 * 一种Spring IOC配置文件的生成方法. ZL201210018123.9 2015(9)
 * 一种面向全球变化研究的空间科学数据自动汇聚方法. ZL201110220536.0 2013(4)
 * 面向全球变化研究的空间科学数据元数据自动汇聚方法. ZL201110220537.5 2012(12)
 * 可定制的移动数据采集系统. ZL200920110708.7 2010(11)
 
-###软件著作权
+## <a name='-1'></a>软件著作权
 
 * 科学数据服务映射中间件系统. 2012SR103355. 2012/11/1. 沈志宏
 * 数据库资源量在线统计系统. 2011SRBJ1359. 2011/4/25. 沈志宏,苏贤明
@@ -57,7 +80,11 @@
 * DDHS分布式数据收割与服务系统V1.0.2009SRBJ0011. 2009/1/20. 沈志宏,侯艳飞,吴威,史晔翎
 * VisualDB可视化关系数据库管理发布系统V1.0. 2008SRBJ2786. 2008-09-12. 沈志宏,史晓磊
 
-###学术论文
+## <a name='-1'></a>学术论文
+* 王华进,黎建辉,沈志宏,周园春.基于ORC元数据的Hive Join查询Reducer负载均衡方法[J].计算机科学,2018(03):160-166.
+<https://bluejoe2008.github.io/pub/ORC_Metadata_Based_Reducer_Load_Balancing_Method_for_Hive_Join_Queries.pdf>
+* 沈志宏,姚畅,侯艳飞,吴林寰,李跃鹏.关联大数据管理技术:挑战、对策与实践[J].数据分析与知识发现,2018,2(01):9-20.
+<https://bluejoe2008.github.io/pub/Big_Linked_Data_Management_Challenges_Solutions_and_Practices.pdf>
 * Liang Li, Zhihong Shen, Jianhui Li, Dongjiang Liu, Huajin Wang, Lipeng Wang, Qinglan Sun:
 A Resilient Index Graph for Querying Large Biological Scientific Data. BigData Congress 2017: 435-443
 <https://bluejoe2008.github.io/pub/A_Resilient_Index_Graph_for_Querying_Large_Biological_Scientific_Data.pdf>
@@ -90,7 +117,7 @@ A Resilient Index Graph for Querying Large Biological Scientific Data. BigData C
 * 访问控制聚合模型研究. 吴开超,沈志宏,周园春,阎保平. 微电子学与计算机. 2009(01)
 * 基于元目录的数据管理模型的研究与实现. 王建芳,阎保平,吴开超,沈志宏. 计算机工程. 2007(10)
 
-###口头报告
+## <a name='-1'></a>口头报告
 
 * 开放科学数据的新发展与新挑战. 2017年中国开放获取推介周(2017 China Open Access Week). 2017/10/23. 北京
 * 科学大数据管理系统集成框架. 第34届中国数据库学术会议. 2017/10/21. 杭州
@@ -105,12 +132,12 @@ A Resilient Index Graph for Querying Large Biological Scientific Data. BigData C
 * Publishing, Searching and Linking Scientific Data—Experience on Applying Linked Data to Scientific Database Project. the international training workshop of scientific data sharing. Nov, 2013. Beijing, China
 * SQL, NoSQL and NewSQL, What’s your choice? the international training workshop of scientific data sharing. Jun, 2014. Beijing, China
 
-###获得奖励
+## <a name='-1'></a>获得奖励
 
 * “大规模地理空间数据云服务关键技术与应用”荣获北京市科学技术二等奖
 * 2013年度中国科学院院长优秀奖
 
-###联系方式
+## <a name='-1'></a>联系方式
 
 * 电子邮箱: bluejoe(at)cnic.cn
 * 开源主页: <https://github.com/bluejoe2008>
