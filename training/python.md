@@ -1,6 +1,0 @@
-安装pip
-```
-$ wget https://bootstrap.pypa.io/get-pip.py
-$ python get-pip.py
-$ pip -V　　#查看pip版本
-```
