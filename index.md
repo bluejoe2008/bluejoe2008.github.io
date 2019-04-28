@@ -120,7 +120,7 @@ A Resilient Index Graph for Querying Large Biological Scientific Data. BigData C
 
 ## <a name='-1'></a>获得奖励
 
-* “大规模地理空间数据云服务关键技术与应用”荣获北京市科学技术二等奖
+* 2017年度“大规模地理空间数据云服务关键技术与应用”荣获北京市科学技术二等奖
 * 2013年度中国科学院院长优秀奖
 
 ## <a name='-1'></a>联系方式
