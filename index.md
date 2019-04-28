@@ -5,7 +5,6 @@
 * [软件研发编著](#-1)
 * [学术编著、译著](#-1)
 * [授权专利](#-1)
-* [软件著作权](#-1)
 * [学术论文](#-1)
 * [口头报告](#-1)
 * [获得奖励](#-1)
@@ -21,7 +20,7 @@
 
 ## <a name=''></a>个人简介
 
-沈志宏，研究员，博士，硕士生导师，现任中国科学院计算机网络信息中心大数据部副主任，大数据分析与计算技术国家地方联合工程实验室总工程师，研究方向为大数据管理与处理、关联数据与语义Web。目前主持国家重点研发计划“科学大数据管理系统”课题，曾作为技术骨干参与中科院“十一五”“十二五”信息化项目、中科院先导专项、国家基础条件平台项目等。主持开发分布式数据管理发布系统VisualDB、科学数据搜索引擎Voovle等软件系统，软件著作权12项，授权发明专利4项，在国内外重要刊物及会议发表学术论文25余篇，学术编著1部，译著1部。
+沈志宏，研究员，博士生导师，现任中国科学院计算机网络信息中心大数据部副主任，大数据分析与计算技术国家地方联合工程实验室总工程师，研究方向为海量数据关联融合、图数据分析挖掘、语义网。目前主持国家重点研发计划“科学大数据管理系统”课题，曾作为技术骨干参与中科院“十一五”“十二五”信息化项目、中科院先导专项、国家基础条件平台项目等。主持开发分布式数据管理发布系统VisualDB、科学数据搜索引擎Voovle、大数据流水线PiFlow、融合数据库系统PiDB等软件系统，申请软件发明专利22项，授权4项，在国内外重要刊物及会议发表学术论文30余篇，学术编著1部，译著1部。热爱软件开源，参与和主持国际开源项目多项，软件开发类编著3部。
 
 ## <a name='-1'></a>承担项目
 * 中国烟草总公司科技重大专项项目"烟草科研数据融合与关联挖掘关键技术研究",项目负责人,2018-2019
@@ -39,11 +38,10 @@
 
 ## <a name='-1'></a>开源软件
 * __InteractiveGraph__: InteractiveGraph provides a web-based interactive operating framwork for large graph data, which may come from a GSON file, or an online Neo4j graph database
-* __pistack__: 科学大数据全生命周期管理系统，支持天文数据、高能物理数据、生物数据等的管理与在线分析
-* __spark-http-stream__: 
-spark structured streaming via HTTP communication
-* __elfinder-servlet-2.x__: 
-elfinder-2.x-servlet implements a java servlet for elfinder-2.x connector, elfinder is an Open-source file manager for web
+* __PiDB__: a property graph based, AI embeded structured & unstructured data management system
+* __PiFlow__: a big data flow system for data ingest, clean & analysis
+* __spark-http-stream__: spark structured streaming via HTTP communication
+* __elfinder-servlet-2.x__: elfinder-2.x-servlet implements a java servlet for elfinder-2.x connector, elfinder is an Open-source file manager for web
 * __solr-sql__: sql interface for solr cloud
 * __openwebflow__: 基于Activiti的工作流引擎扩展，接管了Activiti对活动权限以及用户表的管理，并提供了催办、代办、加签（包括前加签/后加签）、自由跳转、分裂节点等功能
 * ...
@@ -66,26 +64,13 @@ elfinder-2.x-servlet implements a java servlet for elfinder-2.x connector, elfin
 * 面向全球变化研究的空间科学数据元数据自动汇聚方法. ZL201110220537.5 2012(12)
 * 可定制的移动数据采集系统. ZL200920110708.7 2010(11)
 
-## <a name='-1'></a>软件著作权
-
-* 科学数据服务映射中间件系统. 2012SR103355. 2012/11/1. 沈志宏
-* 数据库资源量在线统计系统. 2011SRBJ1359. 2011/4/25. 沈志宏,苏贤明
-* VisualDB可视化关系数据库管理发布系统 V2.0. 2011SRBJ1362. 2011/4/25. 沈志宏,李成赞,苏贤明,何星
-* 用户统一认证系统 V1.0. 2011SR087305. 2011/11/25. 沈志宏,巩晓冬
-* 科学数据库搜索引擎系统. 2011SR079466. 2011/11/2. 沈志宏,李晓东,李成赞
-* 数据资源中心环境监控系统. 2011SR079528. 2011/11/3.刘峰, 沈志宏
-* 科学数据质量校验软件.2010SRBJ0641.2010/3/8. 沈志宏,曹汕,张仁
-* 资源与服务注册系统.2010SRBJ0642.2010/3/8. 侯艳飞,沈志宏,巩晓冬
-* VisualDB可视化关系数据库管理发布系统 V1.2. 2009SRBJ5101.2009/8/27. 沈志宏,李成赞,何星,史晓磊,张仁
-* 站点访问监控统计集成系统.2009SRBJ5461.2009/8/27. 曹汕,沈志宏
-* DDHS分布式数据收割与服务系统V1.0.2009SRBJ0011. 2009/1/20. 沈志宏,侯艳飞,吴威,史晔翎
-* VisualDB可视化关系数据库管理发布系统V1.0. 2008SRBJ2786. 2008-09-12. 沈志宏,史晓磊
-
 ## <a name='-1'></a>学术论文
 * 王华进,黎建辉,沈志宏,周园春.基于ORC元数据的Hive Join查询Reducer负载均衡方法[J].计算机科学,2018(03):160-166.
 <https://bluejoe2008.github.io/pub/ORC_Metadata_Based_Reducer_Load_Balancing_Method_for_Hive_Join_Queries.pdf>
 * 沈志宏,姚畅,侯艳飞,吴林寰,李跃鹏.关联大数据管理技术:挑战、对策与实践[J].数据分析与知识发现,2018,2(01):9-20.
 <https://bluejoe2008.github.io/pub/Big_Linked_Data_Management_Challenges_Solutions_and_Practices.pdf>
+* Huajin Wang, Jianhui Li, Zhihong Shen and Yuanchun Zhou. Approximations and Bounds for (n, k) Fork-Join Queues: A Linear Transformation Approach. 2018 IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing (CCGRID).
+<https://bluejoe2008.github.io/pub/Approximations_and_Bounds_for_n_K_Fork_Join_Queues_A_Linear_Transformation_Approach.pdf>
 * Liang Li, Zhihong Shen, Jianhui Li, Dongjiang Liu, Huajin Wang, Lipeng Wang, Qinglan Sun:
 A Resilient Index Graph for Querying Large Biological Scientific Data. BigData Congress 2017: 435-443
 <https://bluejoe2008.github.io/pub/A_Resilient_Index_Graph_for_Querying_Large_Biological_Scientific_Data.pdf>
