@@ -16,7 +16,7 @@
 	/vscode-markdown-toc-config -->
 <!-- /vscode-markdown-toc -->
 
-![](p3.png)
+![](p4.png)
 
 ## <a name=''></a>个人简介
 
@@ -40,7 +40,7 @@ Dr. SHEN Zhihong is a Professor in the big data department, CNIC, CAS. His curre
 
 ## <a name='-1'></a>开源软件
 * __InteractiveGraph__: InteractiveGraph provides a web-based interactive operating framwork for large graph data, which may come from a GSON file, or an online Neo4j graph database
-* __PiDB__: a property graph based, AI embeded structured & unstructured data management system
+* __GraiphDB__: a property graph based, AI embeded structured & unstructured data management system
 * __PiFlow__: a big data flow system for data ingest, clean & analysis
 * __spark-http-stream__: spark structured streaming via HTTP communication
 * __elfinder-servlet-2.x__: elfinder-2.x-servlet implements a java servlet for elfinder-2.x connector, elfinder is an Open-source file manager for web
