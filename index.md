@@ -40,7 +40,7 @@ Dr. SHEN Zhihong is a Professor in the big data department, CNIC, CAS. His curre
 
 ## <a name='-1'></a>开源软件
 * __InteractiveGraph__: InteractiveGraph provides a web-based interactive operating framwork for large graph data, which may come from a GSON file, or an online Neo4j graph database
-* __GraiphDB__: a property graph based, AI embeded structured & unstructured data management system
+* __PandaDB__: a property graph based, AI embeded structured & unstructured data management system
 * __PiFlow__: a big data flow system for data ingest, clean & analysis
 * __spark-http-stream__: spark structured streaming via HTTP communication
 * __elfinder-servlet-2.x__: elfinder-2.x-servlet implements a java servlet for elfinder-2.x connector, elfinder is an Open-source file manager for web
@@ -68,6 +68,8 @@ Dr. SHEN Zhihong is a Professor in the big data department, CNIC, CAS. His curre
 * 可定制的移动数据采集系统. ZL200920110708.7 2010(11)
 
 ## <a name='-1'></a>学术论文
+* 赵子豪,沈志宏. 一种适合多元异构图数据管理系统的交互分析框架[J]. 数据分析与知识发现,2019,10(34):37-46.
+<https://bluejoe2008.github.io/pub/An_Interactive_Analysis_Framework_for_Multivariate_Heterogeneous_Graph_Data_Management_System.pdf>
 * 王华进,黎建辉,沈志宏,周园春.基于ORC元数据的Hive Join查询Reducer负载均衡方法[J].计算机科学,2018(03):160-166.
 <https://bluejoe2008.github.io/pub/ORC_Metadata_Based_Reducer_Load_Balancing_Method_for_Hive_Join_Queries.pdf>
 * 沈志宏,姚畅,侯艳飞,吴林寰,李跃鹏.关联大数据管理技术:挑战、对策与实践[J].数据分析与知识发现,2018,2(01):9-20.
