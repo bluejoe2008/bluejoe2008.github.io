@@ -21,7 +21,7 @@ Dr. SHEN Zhihong is a professor in the big data department, CNIC, CAS. His curre
 * 所主任基金项目“基于LOD的古籍信息发布与关联发现系统”,项目负责人,2013-2014
 * 所青年基金项目“基于规则引擎的科学数据质量校验”,项目负责人,2009
 
-## 开源软件
+## 开源软件项目
 * __InteractiveGraph__: InteractiveGraph provides a web-based interactive operating framwork for large graph data, which may come from a GSON file, or an online Neo4j graph database
 * __RegionFS__: a distributed file system
 * __PandaDB__: a property graph based, AI embeded structured & unstructured data management system
