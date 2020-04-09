@@ -2,7 +2,7 @@
   "name": "npm-build-index",
   "version": "1.0.0",
   "scripts": {
-    "build": "github-markdown index.md --title \"SHEN Zhihong's home page\" --stylesheet \"./styles.css\">index.html"
+    "build": "github-markdown index.md --title \"SHEN Zhihong's home page\" >index.html"
   },
   "main": "jquery-1.10.2.min.js",
   "repository": {
