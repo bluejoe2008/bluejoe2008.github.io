@@ -20,9 +20,9 @@
 
 ## <a name=''></a>个人简介
 
-沈志宏，研究员，博士生导师，现任中国科学院计算机网络信息中心大数据部副主任，大数据分析与计算技术国家地方联合工程实验室总工程师，研究方向为海量数据关联融合、图数据分析挖掘、语义网。目前主持国家重点研发计划“科学大数据管理系统”课题，曾作为技术骨干参与中科院“十一五”“十二五”信息化项目、中科院先导专项、国家基础条件平台项目等。主持开发分布式数据管理发布系统VisualDB、科学数据搜索引擎Voovle、大数据流水线PiFlow、融合数据库系统PiDB等软件系统，申请软件发明专利30余项，授权5项，在国内外重要刊物及会议发表学术论文30余篇，学术编著1部，译著1部。热爱软件开源，参与和主持国际开源项目多项，软件开发类编著3部。
+沈志宏，正高级工程师，博士生导师，现任中国科学院计算机网络信息中心大数据部副主任，大数据分析与计算技术国家地方联合工程实验室总工程师，研究方向为海量数据关联融合、图数据分析挖掘、语义网。目前主持国家重点研发计划“科学大数据管理系统”课题，曾作为技术骨干参与中科院“十一五”“十二五”信息化项目、中科院先导专项、国家基础条件平台项目等。主持开发分布式数据管理发布系统VisualDB、科学数据搜索引擎Voovle、大数据流水线PiFlow、分布式文件系统RegionFS、融合数据库系统PandaDB等软件系统，申请软件发明专利30余项，授权5项，在国内外重要刊物及会议发表学术论文30余篇，学术编著1部，译著1部。热爱软件开源，参与和主持国际开源项目多项，软件开发类编著3部。
 
-Dr. SHEN Zhihong is a Professor in the big data department, CNIC, CAS. His current main research interests include graph database, big data processing, distributed computation and semantic web. Leading his team, Dr. SHEN developed a series of widely used big data software including VisualDB, PiFlow, Voovle, GraiphDB, etc. He also participates in the national key research projects, projects of informatization plan of CAS and customer-oriented applications. 
+Dr. SHEN Zhihong is a professor in the big data department, CNIC, CAS. His current main research interests include graph database, big data processing, distributed computation and semantic web. Leading his team, Dr. SHEN developed a series of widely used big data software including VisualDB, PiFlow, Voovle, RegionFS, PandaDB, etc. He also participates in the national key research projects, projects of informatization plan of CAS and customer-oriented applications. 
 
 ## <a name='-1'></a>承担项目
 * 中国烟草总公司科技重大专项项目"烟草科研数据融合与关联挖掘关键技术研究",项目负责人,2018-2019
@@ -40,6 +40,7 @@ Dr. SHEN Zhihong is a Professor in the big data department, CNIC, CAS. His curre
 
 ## <a name='-1'></a>开源软件
 * __InteractiveGraph__: InteractiveGraph provides a web-based interactive operating framwork for large graph data, which may come from a GSON file, or an online Neo4j graph database
+* __RegionFS__: a distributed file system
 * __PandaDB__: a property graph based, AI embeded structured & unstructured data management system
 * __PiFlow__: a big data flow system for data ingest, clean & analysis
 * __spark-http-stream__: spark structured streaming via HTTP communication
@@ -111,6 +112,7 @@ A Resilient Index Graph for Querying Large Biological Scientific Data. BigData C
 ## <a name='-1'></a>口头报告
 
 * 科学大数据管理技术：实践与思考. 2019大数据智能与知识服务高端论坛-知领系列论坛(第2期). 2019/11/11. 北京
+* 大数据融合管理：需求、现状与实践. 第二届“数据分析与知识发现”学术研讨会，2019/7/11. 兰州
 * 开放科学数据的新发展与新挑战. 2017年中国开放获取推介周(2017 China Open Access Week). 2017/10/23. 北京
 * 科学大数据管理系统集成框架. 第34届中国数据库学术会议. 2017/10/21. 杭州
 * 关联大数据的技术挑战、对策与实践. 数据分析与知识发现学术研讨会. 2017/6/9. 北京
@@ -132,6 +134,5 @@ A Resilient Index Graph for Querying Large Biological Scientific Data. BigData C
 ## <a name='-1'></a>联系方式
 
 * 电子邮箱: bluejoe(at)cnic.cn
-* 开源主页: <https://github.com/bluejoe2008>
-* CSDN博客: <http://blog.csdn.net/bluejoe2000>
+* 开源项目: <https://github.com/bluejoe2008>
 * 在线留言: <https://github.com/bluejoe2008/bluejoe2008.github.io/issues>
