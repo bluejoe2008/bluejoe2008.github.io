@@ -43,7 +43,7 @@ Dr. SHEN Zhihong is a professor in the big data department, CNIC, CAS. His curre
 * 大数据时代的科研活动. 2014年. 科学出版社. ISBN:9787030401830
 * 第四范式：数据密集型科学发现. 2012年. 科学出版社. ISBN:9787030347251
 
-## 授权专利
+## 已授权专利
 
 * 一种冲突检验方法以及计算机系统. 201610051422.0 2016(1)
 * 一种Spring IOC配置文件的生成方法. ZL201210018123.9 2015(9)
@@ -117,5 +117,4 @@ A Resilient Index Graph for Querying Large Biological Scientific Data. BigData C
 ## 联系方式
 
 * 电子邮箱: bluejoe(at)cnic.cn
-* 开源项目: <https://github.com/bluejoe2008>
-* 在线留言: <https://github.com/bluejoe2008/bluejoe2008.github.io/issues>
+* 项目托管: <https://github.com/bluejoe2008>
