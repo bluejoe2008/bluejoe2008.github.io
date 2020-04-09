@@ -1,14 +1,14 @@
 <!-- vscode-markdown-toc -->
-* [个人简介](#)
-* [承担项目](#-1)
-* [开源软件](#-1)
-* [软件研发编著](#-1)
-* [学术编著、译著](#-1)
-* [授权专利](#-1)
-* [学术论文](#-1)
-* [口头报告](#-1)
-* [获得奖励](#-1)
-* [联系方式](#-1)
+* [个人简介](#a)
+* [项目经历](#b)
+* [开源软件](#c)
+* [软件研发编著](#d)
+* [学术编著、译著](#e)
+* [授权专利](#f)
+* [学术论文](#g)
+* [口头报告](#h)
+* [获得奖励](#i)
+* [联系方式](#j)
 
 <!-- vscode-markdown-toc-config
 	numbering=false
@@ -18,13 +18,13 @@
 
 ![](p4.png)
 
-## <a name=''></a>个人简介
+## <a name='a'>个人简介</a>
 
 沈志宏，正高级工程师，博士生导师，现任中国科学院计算机网络信息中心大数据部副主任，大数据分析与计算技术国家地方联合工程实验室总工程师，研究方向为海量数据关联融合、图数据分析挖掘、语义网。目前主持国家重点研发计划“科学大数据管理系统”课题，曾作为技术骨干参与中科院“十一五”“十二五”信息化项目、中科院先导专项、国家基础条件平台项目等。主持开发分布式数据管理发布系统VisualDB、科学数据搜索引擎Voovle、大数据流水线PiFlow、分布式文件系统RegionFS、融合数据库系统PandaDB等软件系统，申请软件发明专利30余项，授权5项，在国内外重要刊物及会议发表学术论文30余篇，学术编著1部，译著1部。热爱软件开源，参与和主持国际开源项目多项，软件开发类编著3部。
 
 Dr. SHEN Zhihong is a professor in the big data department, CNIC, CAS. His current main research interests include graph database, big data processing, distributed computation and semantic web. Leading his team, Dr. SHEN developed a series of widely used big data software including VisualDB, PiFlow, Voovle, RegionFS, PandaDB, etc. He also participates in the national key research projects, projects of informatization plan of CAS and customer-oriented applications. 
 
-## <a name='-1'></a>承担项目
+## <a name='b'>项目经历</a>
 * 中国烟草总公司科技重大专项项目"烟草科研数据融合与关联挖掘关键技术研究",项目负责人,2018-2019
 * 国家自然科学基金大数据知识管理服务平台,项目负责人,2017
 * 中国科学院信息化专项"科学大数据工程"课题"科学大数据管理与分析平台建设",课题负责人,2016-2020
@@ -38,7 +38,7 @@ Dr. SHEN Zhihong is a professor in the big data department, CNIC, CAS. His curre
 * 所主任基金项目“基于LOD的古籍信息发布与关联发现系统”,项目负责人,2013-2014
 * 所青年基金项目“基于规则引擎的科学数据质量校验”,项目负责人,2009
 
-## <a name='-1'></a>开源软件
+## <a name='c'>开源软件</a>
 * __InteractiveGraph__: InteractiveGraph provides a web-based interactive operating framwork for large graph data, which may come from a GSON file, or an online Neo4j graph database
 * __RegionFS__: a distributed file system
 * __PandaDB__: a property graph based, AI embeded structured & unstructured data management system
@@ -49,18 +49,18 @@ Dr. SHEN Zhihong is a professor in the big data department, CNIC, CAS. His curre
 * __openwebflow__: 基于Activiti的工作流引擎扩展，接管了Activiti对活动权限以及用户表的管理，并提供了催办、代办、加签（包括前加签/后加签）、自由跳转、分裂节点等功能
 * ...
 
-## <a name='-1'></a>软件研发编著
+## <a name='d'>软件研发编著</a>
 
 * 标准C++开发入门与编程实践. 2007年12月. 电子工业出版社. ISBN:9787121052279
 * Java6从入门到精通. 2008年. 电子工业出版社. ISBN:9787121062179
 * 把脉VC++. 2009年7月. 电子工业出版社. ISBN:9787121086175
 
-## <a name='-1'></a>学术编著、译著
+## <a name='e'>学术编著、译著</a>
 
 * 大数据时代的科研活动. 2014年. 科学出版社. ISBN:9787030401830
 * 第四范式：数据密集型科学发现. 2012年. 科学出版社. ISBN:9787030347251
 
-## <a name='-1'></a>授权专利
+## <a name='f'>授权专利</a>
 
 * 一种冲突检验方法以及计算机系统. 201610051422.0 2016(1)
 * 一种Spring IOC配置文件的生成方法. ZL201210018123.9 2015(9)
@@ -68,7 +68,7 @@ Dr. SHEN Zhihong is a professor in the big data department, CNIC, CAS. His curre
 * 面向全球变化研究的空间科学数据元数据自动汇聚方法. ZL201110220537.5 2012(12)
 * 可定制的移动数据采集系统. ZL200920110708.7 2010(11)
 
-## <a name='-1'></a>学术论文
+## <a name='g'>学术论文</a>
 * 赵子豪,沈志宏. 一种适合多元异构图数据管理系统的交互分析框架[J]. 数据分析与知识发现,2019,10(34):37-46.
 <https://bluejoe2008.github.io/pub/An_Interactive_Analysis_Framework_for_Multivariate_Heterogeneous_Graph_Data_Management_System.pdf>
 * 王华进,黎建辉,沈志宏,周园春.基于ORC元数据的Hive Join查询Reducer负载均衡方法[J].计算机科学,2018(03):160-166.
@@ -109,7 +109,7 @@ A Resilient Index Graph for Querying Large Biological Scientific Data. BigData C
 * 吴开超,沈志宏,周园春,阎保平. 访问控制聚合模型研究. 微电子学与计算机[J]. 2009(01)
 * 王建芳,阎保平,吴开超,沈志宏. 基于元目录的数据管理模型的研究与实现. 计算机工程[J]. 2007(10)
 
-## <a name='-1'></a>口头报告
+## <a name='h'>口头报告</a>
 
 * 科学大数据管理技术：实践与思考. 2019大数据智能与知识服务高端论坛-知领系列论坛(第2期). 2019/11/11. 北京
 * 大数据融合管理：需求、现状与实践. 第二届“数据分析与知识发现”学术研讨会，2019/7/11. 兰州
@@ -126,12 +126,12 @@ A Resilient Index Graph for Querying Large Biological Scientific Data. BigData C
 * Publishing, Searching and Linking Scientific Data—Experience on Applying Linked Data to Scientific Database Project. the international training workshop of scientific data sharing. Nov, 2013. Beijing, China
 * SQL, NoSQL and NewSQL, What’s your choice? the international training workshop of scientific data sharing. Jun, 2014. Beijing, China
 
-## <a name='-1'></a>获得奖励
+## <a name='i'>获得奖励</a>
 
 * 2017年度“大规模地理空间数据云服务关键技术与应用”荣获北京市科学技术二等奖
 * 2013年度中国科学院院长优秀奖
 
-## <a name='-1'></a>联系方式
+## <a name='j'>联系方式</a>
 
 * 电子邮箱: bluejoe(at)cnic.cn
 * 开源项目: <https://github.com/bluejoe2008>
