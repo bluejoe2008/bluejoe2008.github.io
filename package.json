@@ -2,7 +2,7 @@
   "name": "npm-build-index",
   "version": "1.0.0",
   "scripts": {
-      "build": "github-markdown index.md --title \"SHEN Zhihong's home page\" --stylesheet \"./styles.css\">index.html"
+    "build": "github-markdown index.md --title \"SHEN Zhihong's home page\" --stylesheet \"./styles.css\">index.html"
   },
   "main": "jquery-1.10.2.min.js",
   "repository": {
@@ -15,5 +15,8 @@
     "url": "https://github.com/bluejoe2008/bluejoe2008.github.io/issues"
   },
   "homepage": "https://github.com/bluejoe2008/bluejoe2008.github.io#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "github-markdown": "^3.2.0"
+  }
 }
