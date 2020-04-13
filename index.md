@@ -45,14 +45,15 @@ Dr. SHEN Zhihong is a professor in the big data department, CNIC, CAS. His curre
 
 ## 已授权专利
 
-* 一种冲突检验方法以及计算机系统. 201610051422.0 2016(1)
+* 基于数据集相关性的标签网络产生方法和系统. 201510896534.1 2020(3)
+* 一种冲突检验方法以及计算机系统. 201610051422.0 2019(4)
 * 一种Spring IOC配置文件的生成方法. ZL201210018123.9 2015(9)
 * 一种面向全球变化研究的空间科学数据自动汇聚方法. ZL201110220536.0 2013(4)
 * 面向全球变化研究的空间科学数据元数据自动汇聚方法. ZL201110220537.5 2012(12)
 * 可定制的移动数据采集系统. ZL200920110708.7 2010(11)
 
 ## 学术论文
-* 赵子豪,沈志宏. 一种适合多元异构图数据管理系统的交互分析框架[J]. 数据分析与知识发现,2019,10(34):37-46.
+* 赵子豪,沈志宏*. 一种适合多元异构图数据管理系统的交互分析框架[J]. 数据分析与知识发现,2019,10(34):37-46.
 <https://bluejoe2008.github.io/pub/An_Interactive_Analysis_Framework_for_Multivariate_Heterogeneous_Graph_Data_Management_System.pdf>
 * 王华进,黎建辉,沈志宏,周园春.基于ORC元数据的Hive Join查询Reducer负载均衡方法[J].计算机科学,2018(03):160-166.
 <https://bluejoe2008.github.io/pub/ORC_Metadata_Based_Reducer_Load_Balancing_Method_for_Hive_Join_Queries.pdf>
