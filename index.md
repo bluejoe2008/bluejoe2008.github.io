@@ -83,6 +83,7 @@ A Resilient Index Graph for Querying Large Biological Scientific Data. BigData C
 * Zhen Meng,Jianhui Li,Yunchun Zhou,Yanping Gao,Zhihong Shen. iDNABar: A Rapid Species Identification Toolbox for DNA Barcoding, Collection, Preservation, Identification and Tracing. In: ISKE2011.
 * 沈志宏,张晓林. 语义网环境下数据溯源描述模型研究综述.现代图书情报技术[J]. 2011, 27(4) 1-8 <https://bluejoe2008.github.io/pub/Data_Provenance_Model_in_Semantic_Web_Environment.pdf>
 * Zhihong Shen,Yufang Hou,Jianhui Li. Publishing distributed files as Linked Data. In: FSKD2011. <https://bluejoe2008.github.io/pub/Publishing_Distributed_Files_as_Linked_Data.pdf>
+* 李成赞,沈志宏,黎建辉. 面向科学数据的搜索引擎voovle. 科研信息化技术与应用[J]. 2011, 2(5) <https://bluejoe2008.github.io/pub/voovle_A_Scientific_Data_Oriented_Search_Engine.pdf>
 * Zhihong Shen,Jianhui Li,Chengzan Li,et al. VisualDB: Managing and Publishing Scientific Data on the Web. In: CyberC2011. <https://bluejoe2008.github.io/pub/VisualDB_Managing_and_Publishing_Scientific_Data_on_the_Web.pdf>
 * 沈志宏,张晓林. 关联数据及其应用现状综述. 现代图书情报技术. 2010(1):1-9 <https://bluejoe2008.github.io/pub/Linked_Data_and_Its_Applications.pdf>
 * 张仁,沈志宏,黎建辉,施建平. 基于规则的土壤数据校验模型研究与实现. 计算机系统应用[J]. 2010(08)
