@@ -102,7 +102,6 @@ A Resilient Index Graph for Querying Large Biological Scientific Data. BigData C
 * 科学大数据管理系统集成框架. 第34届中国数据库学术会议. 2017/10/21. 杭州
 * 关联大数据的技术挑战、对策与实践. 数据分析与知识发现学术研讨会. 2017/6/9. 北京
 * 技术架构变迁：从SQL到大数据时代. COINFO2016. 2016/10/16. 北京
-<https://bluejoe2008.github.io/pub/Interoperation_of_Data_and_Literature.pdf>
 * Publishing Scientific Data as Linked Data. Sino-German Training Workshop on Open Access. Mar, 2014. Beijing, China
 <https://bluejoe2008.github.io/pub/Publishing_Scientific_Data_as_Linked_Data.pdf>
 * SQL, NoSQL and NewSQL, What’s your choice? the international training workshop of scientific data sharing. Jun, 2014. Beijing, China
@@ -110,6 +109,7 @@ A Resilient Index Graph for Querying Large Biological Scientific Data. BigData C
 * Publishing and Linking Scientific Data. 2nd Annual CHANGES Workshop Data Driven Science: Data Management, Analytics and Visualization. Sep. 10, 2013. Chicago, US
 <https://bluejoe2008.github.io/pub/Publishing_and_Linking_Scientific_Data.pdf>
 * Interoperation between Scientific Data and Literature : An overview. CODATA: data science workshop. Oct 25, 2012. Shanghai, China
+<https://bluejoe2008.github.io/pub/Interoperation_of_Data_and_Literature.pdf>
 * Managing and Linking Scientific Data on the Web via VisualDB. The First ICSU World Data System Conference. Sep 5, 2011. Kyoto, Japan
 <https://bluejoe2008.github.io/pub/Managing_and_Linking_Scientific_Data_on_the_Web_via_VisualDB.pdf>
 * VisualDB: A Visual Relational Database Management and Publishing System. The First WDCM Seminar. May 17-18, 2011 . Beijing, China
