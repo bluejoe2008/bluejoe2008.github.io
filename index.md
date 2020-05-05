@@ -107,9 +107,11 @@ A Resilient Index Graph for Querying Large Biological Scientific Data. BigData C
 <https://bluejoe2008.github.io/pub/Publishing_Scientific_Data_as_Linked_Data.pdf>
 * SQL, NoSQL and NewSQL, What’s your choice? the international training workshop of scientific data sharing. Jun, 2014. Beijing, China
 * Publishing, Searching and Linking Scientific Data—Experience on Applying Linked Data to Scientific Database Project. the international training workshop of scientific data sharing. Nov, 2013. Beijing, China
-* Publishing and Linking Scientific Data. 2nd Annual CHANGES Workshop Data Driven Science: "Data Management, Analytics and Visualization“. Sep. 10, 2013. Chicago, US
+* Publishing and Linking Scientific Data. 2nd Annual CHANGES Workshop Data Driven Science: Data Management, Analytics and Visualization. Sep. 10, 2013. Chicago, US
+<https://bluejoe2008.github.io/pub/Publishing_and_Linking_Scientific_Data.pdf>
 * Interoperation between Scientific Data and Literature : An overview. CODATA: data science workshop. Oct 25, 2012. Shanghai, China
 * Managing and Linking Scientific Data on the Web via VisualDB. The First ICSU World Data System Conference. Sep 5, 2011. Kyoto, Japan
+<https://bluejoe2008.github.io/pub/Managing_and_Linking_Scientific_Data_on_the_Web_via_VisualDB.pdf>
 * VisualDB: A Visual Relational Database Management and Publishing System. The First WDCM Seminar. May 17-18, 2011 . Beijing, China
 
 ## 获得奖励
