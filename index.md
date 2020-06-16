@@ -3,7 +3,7 @@
 
 ## 个人简介
 
-沈志宏，正高级工程师，博士生导师，现任中国科学院计算机网络信息中心大数据部副主任，大数据分析与计算技术国家地方联合工程实验室总工程师，研究方向为海量数据关联融合、图数据分析挖掘、语义网。目前主持国家重点研发计划“科学大数据管理系统”课题，曾作为技术骨干参与中科院“十一五”“十二五”信息化项目、中科院先导专项、国家基础条件平台项目等。主持开发分布式数据管理发布系统VisualDB、科学数据搜索引擎Voovle、大数据流水线PiFlow、分布式文件系统RegionFS、融合数据库系统PandaDB等软件系统，申请软件发明专利30余项，授权5项，在国内外重要刊物及会议发表学术论文30余篇，学术编著1部，译著1部，软件开发类编著3部。热爱软件开源，主导的开源项目在github/gitee平台获stars数2500+，forks数1000+，部分软件在相关软件社区（Apache Calcite、Neo4j、OpenKG）得到推荐和引用。
+沈志宏，正高级工程师，博士生导师，现任中国科学院计算机网络信息中心大数据部副主任，大数据分析与计算技术国家地方联合工程实验室总工程师，研究方向为海量数据关联融合、图数据分析挖掘、语义网。目前主持国家重点研发计划“科学大数据管理系统”课题，曾作为技术骨干参与中科院“十一五”“十二五”信息化项目、中科院先导专项、国家基础条件平台项目等。主持开发分布式数据管理发布系统VisualDB、科学数据搜索引擎Voovle、大数据流水线PiFlow、分布式文件系统RegionFS、融合数据库系统PandaDB等软件系统，申请软件发明专利30余项，授权6项，在国内外重要刊物及会议发表学术论文30余篇，学术编著1部，译著1部，软件开发类编著3部。热爱软件开源，主导的开源项目在github/gitee平台获stars数2500+，forks数1000+，部分软件在相关软件社区（Apache Calcite、Neo4j、OpenKG）得到推荐和引用。
 
 Dr. SHEN Zhihong is a professor in the big data department, CNIC, CAS. His current main research interests include graph database, big data processing, distributed computation and semantic web. Leading his team, Dr. SHEN developed a series of widely used big data software including VisualDB, PiFlow, Voovle, RegionFS, PandaDB, etc. He also participates in the national key research projects, projects of informatization plan of CAS and customer-oriented applications. 
 
@@ -49,6 +49,7 @@ Dr. SHEN Zhihong is a professor in the big data department, CNIC, CAS. His curre
 * 基于数据集相关性的标签网络产生方法和系统. 201510896534.1
 * *一种冲突检验方法以及计算机系统. 201610051422.0
 * *一种Spring IOC配置文件的生成方法. ZL201210018123.9
+* 一种基于空间数据数值索引的数据存储与检索方法. 201210580189.7
 * 一种面向全球变化研究的空间科学数据自动汇聚方法. ZL201110220536.0
 * 面向全球变化研究的空间科学数据元数据自动汇聚方法. ZL201110220537.5
 * 可定制的移动数据采集系统. ZL200920110708.7
@@ -67,12 +68,11 @@ A Resilient Index Graph for Querying Large Biological Scientific Data. BigData C
 <https://bluejoe2008.github.io/pub/A_Resilient_Index_Graph_for_Querying_Large_Biological_Scientific_Data.pdf>
 * Wenjuan Cui; Yi Du; Zhihong Shen; Yuanchun Zhou; Jianhui Li. Personalized microblog recommendation using sentimental features. 2017 IEEE International Conference on Big Data and Smart Computing (BigComp)
 <https://bluejoe2008.github.io/pub/Personalized_Microblog_Recommendation_Using_Sentimental_Features.pdf>
-* 黎建辉,沈志宏,孟小峰. 科学大数据管理：概念、技术与系统. 计算机研究与发展[J]. 2017(2) <https://bluejoe2008.github.io/pub/Scientific_Big_Data_Management_Concepts,_Technologies_and_System.pdf>
+* 黎建辉,沈志宏,孟小峰. 科学大数据管理：概念、技术与系统. 计算机研究与发展[J]. 2017(2) <https://bluejoe2008.github.io/pub/Scientific_Big_Data_Management_Concepts_Technologies_and_System.pdf>
 * 王林彬,黎建辉,沈志宏. 基于NoSQL的RDF数据存储与查询技术综述. 计算机应用研究[J]. 2015(5) <https://bluejoe2008.github.io/pub/Overview_of_NoSQL_databases_for_large_scaled_RDF_data_management.pdf>
 * 沈志宏,黎建辉,张晓林. 面向LOD的关联发现过程的定位、目标与复杂性分析. 中国图书馆学报[J]. 2013(6) <https://bluejoe2008.github.io/pub/Insights_into_Link_Discovery_Process_for_Linked_Open_Data.pdf>
 * 沈志宏,黎建辉,张晓林. 关联数据互联技术研究综述:应用、方法与框架. 图书情报工作[J]. 2013(14) <https://bluejoe2008.github.io/pub/Research_Review_on_the_Interlinking_Technology_of_Linked_Data.pdf>
-* F2R: Publishing file systems as Linked Data. Shaopeng He; Jianhui Li; Zhihong Shen
-2013 10th International Conference on Fuzzy Systems and Knowledge Discovery (FSKD)
+* Shaopeng He; Jianhui Li; Zhihong Shen. F2R: Publishing file systems as Linked Data. 2013. 10th International Conference on Fuzzy Systems and Knowledge Discovery (FSKD)
 <https://bluejoe2008.github.io/pub/F2R_Publishing_File_Systems_as_Linked_Data.pdf>
 * Jianhui Li,Yuanchun Zhou,Wei Shang,Cungen Cao,Zhihong Shen,Fenglei Yang,Xiao Xiao,Danhuai Guo. A cloud Computation Architecture for Unconventional Emergency Management. In: WAIM2013
 * 沈志宏,刘筱敏,郭学兵. 关联数据发布流程与关键问题研究——以科技文献、科学数据的发布为例. 中国图书馆学报[J]. 2013(2) <https://bluejoe2008.github.io/pub/A_Research_on_Publishing_Workflow_and_Key_Issues_of_Linked_Data.pdf>
@@ -80,7 +80,7 @@ A Resilient Index Graph for Querying Large Biological Scientific Data. BigData C
 * 何少鹏,黎建辉.沈志宏. 大规模的RDF数据存储技术综述. 网络新媒体技术. 2013(1):8-16 <https://bluejoe2008.github.io/pub/Overview_of_the_Storage_Technology_for_Large_scale_RDF_Data.pdf>
 * 沈志宏,张晓林,黎建辉. OpenCSDB: 关联数据在科学数据库中的应用研究. 中国图书馆学报[J]，2012(5)
 <https://bluejoe2008.github.io/pub/OpenCSDB_Application_of_Linked_Data_in_Scientific_Database.pdf>
-* Zhihong Shen,Yanfei Hou,Jianhui Li. Voovle: A linked data search engine for scientific data. In: FSKD2012. <https://bluejoe2008.github.io/pub/Voovle_A_linked_data_search_engine_for_scientific_data.pdf>
+* Zhihong Shen,Yanfei Hou,Jianhui Li. Voovle: A linked data search engine for scientific data. 2012. 9th International Conference on Fuzzy Systems and Knowledge Discovery (FSKD) <https://bluejoe2008.github.io/pub/Voovle_A_linked_data_search_engine_for_scientific_data.pdf>
 * Zhen Meng,Jianhui Li,Yunchun Zhou,Yanping Gao,Zhihong Shen. iDNABar: A Rapid Species Identification Toolbox for DNA Barcoding, Collection, Preservation, Identification and Tracing. In: ISKE2011.
 * 沈志宏,张晓林. 语义网环境下数据溯源描述模型研究综述.现代图书情报技术[J]. 2011, 27(4) 1-8 <https://bluejoe2008.github.io/pub/Data_Provenance_Model_in_Semantic_Web_Environment.pdf>
 * Zhihong Shen,Yufang Hou,Jianhui Li. Publishing distributed files as Linked Data. In: FSKD2011. <https://bluejoe2008.github.io/pub/Publishing_Distributed_Files_as_Linked_Data.pdf>
@@ -93,7 +93,9 @@ A Resilient Index Graph for Querying Large Biological Scientific Data. BigData C
 <https://bluejoe2008.github.io/pub/Design_and_Implementation_of_an_XML-Based_Universal_Mobile_Data_Acquisition_System.pdf>
 * 吴开超,沈志宏,周园春,阎保平. 信息系统访问控制的层次模型. 计算机工程与设计[J]. 2009(01) <https://bluejoe2008.github.io/pub/Hierarchy_model_of_access_control_in_information_system.pdf>
 * 吴开超,沈志宏,周园春,阎保平. 访问控制聚合模型研究. 微电子学与计算机[J]. 2009(01)
+* 沈志宏,吴开超.基于目录的数据管理与发布模型的研究与应用[J].科研信息化技术与应用,2008(01):22-26. <https://bluejoe2008.github.io/pub/Research_on_Catalog_based_Data_Management_and_Publish_Model.pdf>
 * 王建芳,阎保平,吴开超,沈志宏. 基于元目录的数据管理模型的研究与实现. 计算机工程[J]. 2007(10)
+* 沈志宏, 王龙潇. 目录型元数据在科学数据库系统平台中的应用[C]// 科学数据库与信息技术学术讨论会. 2004. <https://bluejoe2008.github.io/pub/Catalog_Metadata_and_Its_Application_in_SDB_System_Platform.pdf>
 
 ##  口头报告
 
