@@ -57,62 +57,62 @@ Dr. SHEN Zhihong is a professor in the big data department, CNIC, CAS. His curre
 
 ## 学术论文
 * 赵子豪,沈志宏*. 一种适合多元异构图数据管理系统的交互分析框架[J]. 数据分析与知识发现,2019,10(34):37-46.
-[![](download.jpeg)](https://bluejoe2008.github.io/pub/An_Interactive_Analysis_Framework_for_Multivariate_Heterogeneous_Graph_Data_Management_System.pdf)
+[![](download.png)](https://bluejoe2008.github.io/pub/An_Interactive_Analysis_Framework_for_Multivariate_Heterogeneous_Graph_Data_Management_System.pdf)
 * 王华进,黎建辉,沈志宏,周园春.基于ORC元数据的Hive Join查询Reducer负载均衡方法[J].计算机科学,2018(03):160-166.
-[![](download.jpeg)](https://bluejoe2008.github.io/pub/ORC_Metadata_Based_Reducer_Load_Balancing_Method_for_Hive_Join_Queries.pdf)
+[![](download.png)](https://bluejoe2008.github.io/pub/ORC_Metadata_Based_Reducer_Load_Balancing_Method_for_Hive_Join_Queries.pdf)
 * 沈志宏,姚畅,侯艳飞,吴林寰,李跃鹏.关联大数据管理技术:挑战、对策与实践[J].数据分析与知识发现,2018,2(01):9-20.
-[![](download.jpeg)](https://bluejoe2008.github.io/pub/Big_Linked_Data_Management_Challenges_Solutions_and_Practices.pdf)
+[![](download.png)](https://bluejoe2008.github.io/pub/Big_Linked_Data_Management_Challenges_Solutions_and_Practices.pdf)
 * Huajin Wang, Jianhui Li, Zhihong Shen and Yuanchun Zhou. Approximations and Bounds for (n, k) Fork-Join Queues: A Linear Transformation Approach. 2018 IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing (CCGRID).
-[![](download.jpeg)](https://bluejoe2008.github.io/pub/Approximations_and_Bounds_for_n_K_Fork_Join_Queues_A_Linear_Transformation_Approach.pdf)
+[![](download.png)](https://bluejoe2008.github.io/pub/Approximations_and_Bounds_for_n_K_Fork_Join_Queues_A_Linear_Transformation_Approach.pdf)
 * Liang Li, Zhihong Shen, Jianhui Li, Dongjiang Liu, Huajin Wang, Lipeng Wang, Qinglan Sun:
 A Resilient Index Graph for Querying Large Biological Scientific Data. BigData Congress 2017: 435-443
-[![](download.jpeg)](https://bluejoe2008.github.io/pub/A_Resilient_Index_Graph_for_Querying_Large_Biological_Scientific_Data.pdf)
+[![](download.png)](https://bluejoe2008.github.io/pub/A_Resilient_Index_Graph_for_Querying_Large_Biological_Scientific_Data.pdf)
 * Wenjuan Cui; Yi Du; Zhihong Shen; Yuanchun Zhou; Jianhui Li. Personalized microblog recommendation using sentimental features. 2017 IEEE International Conference on Big Data and Smart Computing (BigComp)
-[![](download.jpeg)](https://bluejoe2008.github.io/pub/Personalized_Microblog_Recommendation_Using_Sentimental_Features.pdf)
+[![](download.png)](https://bluejoe2008.github.io/pub/Personalized_Microblog_Recommendation_Using_Sentimental_Features.pdf)
 * 黎建辉,沈志宏,孟小峰. 科学大数据管理：概念、技术与系统. 计算机研究与发展[J]. 2017(2)
-[![](download.jpeg)](https://bluejoe2008.github.io/pub/Scientific_Big_Data_Management_Concepts_Technologies_and_System.pdf)
+[![](download.png)](https://bluejoe2008.github.io/pub/Scientific_Big_Data_Management_Concepts_Technologies_and_System.pdf)
 * 王林彬,黎建辉,沈志宏. 基于NoSQL的RDF数据存储与查询技术综述. 计算机应用研究[J]. 2015(5)
-[![](download.jpeg)](https://bluejoe2008.github.io/pub/Overview_of_NoSQL_databases_for_large_scaled_RDF_data_management.pdf)
+[![](download.png)](https://bluejoe2008.github.io/pub/Overview_of_NoSQL_databases_for_large_scaled_RDF_data_management.pdf)
 * 沈志宏,黎建辉,张晓林. 面向LOD的关联发现过程的定位、目标与复杂性分析. 中国图书馆学报[J]. 2013(6)
-[![](download.jpeg)](https://bluejoe2008.github.io/pub/Insights_into_Link_Discovery_Process_for_Linked_Open_Data.pdf)
+[![](download.png)](https://bluejoe2008.github.io/pub/Insights_into_Link_Discovery_Process_for_Linked_Open_Data.pdf)
 * 沈志宏,黎建辉,张晓林. 关联数据互联技术研究综述:应用、方法与框架. 图书情报工作[J]. 2013(14)
-[![](download.jpeg)](https://bluejoe2008.github.io/pub/Research_Review_on_the_Interlinking_Technology_of_Linked_Data.pdf)
+[![](download.png)](https://bluejoe2008.github.io/pub/Research_Review_on_the_Interlinking_Technology_of_Linked_Data.pdf)
 * Shaopeng He; Jianhui Li; Zhihong Shen. F2R: Publishing file systems as Linked Data. 2013. 10th International Conference on Fuzzy Systems and Knowledge Discovery (FSKD)
-[![](download.jpeg)](https://bluejoe2008.github.io/pub/F2R_Publishing_File_Systems_as_Linked_Data.pdf)
+[![](download.png)](https://bluejoe2008.github.io/pub/F2R_Publishing_File_Systems_as_Linked_Data.pdf)
 * Jianhui Li,Yuanchun Zhou,Wei Shang,Cungen Cao,Zhihong Shen,Fenglei Yang,Xiao Xiao,Danhuai Guo. A cloud Computation Architecture for Unconventional Emergency Management. In: WAIM2013
 * 沈志宏,刘筱敏,郭学兵. 关联数据发布流程与关键问题研究——以科技文献、科学数据的发布为例. 中国图书馆学报[J]. 2013(2)
-[![](download.jpeg)](https://bluejoe2008.github.io/pub/A_Research_on_Publishing_Workflow_and_Key_Issues_of_Linked_Data.pdf)
+[![](download.png)](https://bluejoe2008.github.io/pub/A_Research_on_Publishing_Workflow_and_Key_Issues_of_Linked_Data.pdf)
 * 黎建辉,兰金松,沈志宏. 面向科学数据的PageRank排序算法. 计算机科学与探索[J]. 2013(06)
-[![](download.jpeg)](https://bluejoe2008.github.io/pub/PageRank_Algorithm_for_Scientific_Data_Ranking.pdf)
+[![](download.png)](https://bluejoe2008.github.io/pub/PageRank_Algorithm_for_Scientific_Data_Ranking.pdf)
 * 何少鹏,黎建辉.沈志宏. 大规模的RDF数据存储技术综述. 网络新媒体技术. 2013(1):8-16
-[![](download.jpeg)](https://bluejoe2008.github.io/pub/Overview_of_the_Storage_Technology_for_Large_scale_RDF_Data.pdf)
+[![](download.png)](https://bluejoe2008.github.io/pub/Overview_of_the_Storage_Technology_for_Large_scale_RDF_Data.pdf)
 * 沈志宏,张晓林,黎建辉. OpenCSDB: 关联数据在科学数据库中的应用研究. 中国图书馆学报[J]，2012(5)
-[![](download.jpeg)](https://bluejoe2008.github.io/pub/OpenCSDB_Application_of_Linked_Data_in_Scientific_Database.pdf)
+[![](download.png)](https://bluejoe2008.github.io/pub/OpenCSDB_Application_of_Linked_Data_in_Scientific_Database.pdf)
 * Zhihong Shen,Yanfei Hou,Jianhui Li. Voovle: A linked data search engine for scientific data. 2012. 9th International Conference on Fuzzy Systems and Knowledge Discovery (FSKD)
-[![](download.jpeg)](https://bluejoe2008.github.io/pub/Voovle_A_linked_data_search_engine_for_scientific_data.pdf)
+[![](download.png)](https://bluejoe2008.github.io/pub/Voovle_A_linked_data_search_engine_for_scientific_data.pdf)
 * Zhen Meng,Jianhui Li,Yunchun Zhou,Yanping Gao,Zhihong Shen. iDNABar: A Rapid Species Identification Toolbox for DNA Barcoding, Collection, Preservation, Identification and Tracing. In: ISKE2011.
 * 沈志宏,张晓林. 语义网环境下数据溯源描述模型研究综述.现代图书情报技术[J]. 2011, 27(4) 1-8
-[![](download.jpeg)](https://bluejoe2008.github.io/pub/Data_Provenance_Model_in_Semantic_Web_Environment.pdf)
+[![](download.png)](https://bluejoe2008.github.io/pub/Data_Provenance_Model_in_Semantic_Web_Environment.pdf)
 * Zhihong Shen,Yufang Hou,Jianhui Li. Publishing distributed files as Linked Data. In: FSKD2011.
-[![](download.jpeg)](https://bluejoe2008.github.io/pub/Publishing_Distributed_Files_as_Linked_Data.pdf)
+[![](download.png)](https://bluejoe2008.github.io/pub/Publishing_Distributed_Files_as_Linked_Data.pdf)
 * 李成赞,沈志宏,黎建辉. 面向科学数据的搜索引擎voovle. 科研信息化技术与应用[J]. 2011, 2(5)
-[![](download.jpeg)](https://bluejoe2008.github.io/pub/voovle_A_Scientific_Data_Oriented_Search_Engine.pdf)
+[![](download.png)](https://bluejoe2008.github.io/pub/voovle_A_Scientific_Data_Oriented_Search_Engine.pdf)
 * Zhihong Shen,Jianhui Li,Chengzan Li,et al. VisualDB: Managing and Publishing Scientific Data on the Web. In: CyberC2011.
-[![](download.jpeg)](https://bluejoe2008.github.io/pub/VisualDB_Managing_and_Publishing_Scientific_Data_on_the_Web.pdf)
+[![](download.png)](https://bluejoe2008.github.io/pub/VisualDB_Managing_and_Publishing_Scientific_Data_on_the_Web.pdf)
 * 沈志宏,张晓林. 关联数据及其应用现状综述. 现代图书情报技术. 2010(1):1-9
-[![](download.jpeg)](https://bluejoe2008.github.io/pub/Linked_Data_and_Its_Applications.pdf)
+[![](download.png)](https://bluejoe2008.github.io/pub/Linked_Data_and_Its_Applications.pdf)
 * 张仁,沈志宏,黎建辉,施建平. 基于规则的土壤数据校验模型研究与实现. 计算机系统应用[J]. 2010(08)
 * 史晓磊,沈志宏,黎建辉. 支持科学数据专业类型的统一检索框架. 计算机系统应用[J]. 2010(12)
 * Zhiyi Huang; Qingling Chang; Zhihong Shen; Yuanchun Zhou; Baoping Yan; Lei Liu. Design and Implementation of an XML-Based Universal Mobile Data Acquisition System. 2009 Fifth International Conference on Semantics, Knowledge and Grid
-[![](download.jpeg)](https://bluejoe2008.github.io/pub/Design_and_Implementation_of_an_XML-Based_Universal_Mobile_Data_Acquisition_System.pdf)
+[![](download.png)](https://bluejoe2008.github.io/pub/Design_and_Implementation_of_an_XML-Based_Universal_Mobile_Data_Acquisition_System.pdf)
 * 吴开超,沈志宏,周园春,阎保平. 信息系统访问控制的层次模型. 计算机工程与设计[J]. 2009(01)
-[![](download.jpeg)](https://bluejoe2008.github.io/pub/Hierarchy_model_of_access_control_in_information_system.pdf)
+[![](download.png)](https://bluejoe2008.github.io/pub/Hierarchy_model_of_access_control_in_information_system.pdf)
 * 吴开超,沈志宏,周园春,阎保平. 访问控制聚合模型研究. 微电子学与计算机[J]. 2009(01)
 * 沈志宏,吴开超.基于目录的数据管理与发布模型的研究与应用[J].科研信息化技术与应用,2008(01):22-26.
-[![](download.jpeg)](https://bluejoe2008.github.io/pub/Research_on_Catalog_based_Data_Management_and_Publish_Model.pdf)
+[![](download.png)](https://bluejoe2008.github.io/pub/Research_on_Catalog_based_Data_Management_and_Publish_Model.pdf)
 * 王建芳,阎保平,吴开超,沈志宏. 基于元目录的数据管理模型的研究与实现. 计算机工程[J]. 2007(10)
 * 沈志宏, 王龙潇. 目录型元数据在科学数据库系统平台中的应用[C]// 科学数据库与信息技术学术讨论会. 2004.
-[![](download.jpeg)](https://bluejoe2008.github.io/pub/Catalog_Metadata_and_Its_Application_in_SDB_System_Platform.pdf)
+[![](download.png)](https://bluejoe2008.github.io/pub/Catalog_Metadata_and_Its_Application_in_SDB_System_Platform.pdf)
 
 ##  口头报告
 
@@ -123,15 +123,15 @@ A Resilient Index Graph for Querying Large Biological Scientific Data. BigData C
 * 关联大数据的技术挑战、对策与实践. 数据分析与知识发现学术研讨会. 2017/6/9. 北京
 * 技术架构变迁：从SQL到大数据时代. COINFO2016. 2016/10/16. 北京
 * Publishing Scientific Data as Linked Data. Sino-German Training Workshop on Open Access. Mar, 2014. Beijing, China
-[![](download.jpeg)](https://bluejoe2008.github.io/pub/Publishing_Scientific_Data_as_Linked_Data.pdf)
+[![](download.png)](https://bluejoe2008.github.io/pub/Publishing_Scientific_Data_as_Linked_Data.pdf)
 * SQL, NoSQL and NewSQL, What’s your choice? the international training workshop of scientific data sharing. Jun, 2014. Beijing, China
 * Publishing, Searching and Linking Scientific Data—Experience on Applying Linked Data to Scientific Database Project. the international training workshop of scientific data sharing. Nov, 2013. Beijing, China
 * Publishing and Linking Scientific Data. 2nd Annual CHANGES Workshop Data Driven Science: Data Management, Analytics and Visualization. Sep. 10, 2013. Chicago, US
-[![](download.jpeg)](https://bluejoe2008.github.io/pub/Publishing_and_Linking_Scientific_Data.pdf)
+[![](download.png)](https://bluejoe2008.github.io/pub/Publishing_and_Linking_Scientific_Data.pdf)
 * Interoperation between Scientific Data and Literature : An overview. CODATA: data science workshop. Oct 25, 2012. Shanghai, China
-[![](download.jpeg)](https://bluejoe2008.github.io/pub/Interoperation_of_Data_and_Literature.pdf)
+[![](download.png)](https://bluejoe2008.github.io/pub/Interoperation_of_Data_and_Literature.pdf)
 * Managing and Linking Scientific Data on the Web via VisualDB. The First ICSU World Data System Conference. Sep 5, 2011. Kyoto, Japan
-[![](download.jpeg)](https://bluejoe2008.github.io/pub/Managing_and_Linking_Scientific_Data_on_the_Web_via_VisualDB.pdf)
+[![](download.png)](https://bluejoe2008.github.io/pub/Managing_and_Linking_Scientific_Data_on_the_Web_via_VisualDB.pdf)
 * VisualDB: A Visual Relational Database Management and Publishing System. The First WDCM Seminar. May 17-18, 2011 . Beijing, China
 
 ## 获得奖励
