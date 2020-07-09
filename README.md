@@ -88,6 +88,8 @@ A Resilient Index Graph for Querying Large Biological Scientific Data. BigData C
 [![](download.png)](https://bluejoe2008.github.io/pub/Overview_of_the_Storage_Technology_for_Large_scale_RDF_Data.pdf)
 * 沈志宏,张晓林,黎建辉. OpenCSDB: 关联数据在科学数据库中的应用研究. 中国图书馆学报[J]，2012(5)
 [![](download.png)](https://bluejoe2008.github.io/pub/OpenCSDB_Application_of_Linked_Data_in_Scientific_Database.pdf)
+* 苏贤明,沈志宏,刘宁.基于知识规则的Excel数据质量校验工具[J].科研信息化技术与应用,2012,3(03):29-37.
+[![](download.png)](https://bluejoe2008.github.io/pub/Excel_Data_Quality_Validation_Tool_Based_on_Knowledge_Rules.pdf)
 * Zhihong Shen,Yanfei Hou,Jianhui Li. Voovle: A linked data search engine for scientific data. 2012. 9th International Conference on Fuzzy Systems and Knowledge Discovery (FSKD)
 [![](download.png)](https://bluejoe2008.github.io/pub/Voovle_A_linked_data_search_engine_for_scientific_data.pdf)
 * Zhen Meng,Jianhui Li,Yunchun Zhou,Yanping Gao,Zhihong Shen. iDNABar: A Rapid Species Identification Toolbox for DNA Barcoding, Collection, Preservation, Identification and Tracing. In: ISKE2011.
