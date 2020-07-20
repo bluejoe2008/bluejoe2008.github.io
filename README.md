@@ -59,6 +59,8 @@ Dr. SHEN Zhihong is a professor in the big data department, CNIC, CAS. His curre
 ## 学术论文
 * 赵子豪,沈志宏*. 一种适合多元异构图数据管理系统的交互分析框架[J]. 数据分析与知识发现,2019,10(34):37-46.
 [![](download.png)](https://bluejoe2008.github.io/pub/An_Interactive_Analysis_Framework_for_Multivariate_Heterogeneous_Graph_Data_Management_System.pdf)
+* 王华进,黎建辉,沈志宏.基于(n,r,k)fork-join队列分析的NWR数据库写延时模型[J].计算机应用研究,2019,36(02):466-471.
+[![](download.png)](https://bluejoe2008.github.io/pub/Write_latency_model_for_NWR_databases_based_on_fork_join_queueing_analysis.pdf)
 * 王华进,黎建辉,沈志宏,周园春.基于ORC元数据的Hive Join查询Reducer负载均衡方法[J].计算机科学,2018(03):160-166.
 [![](download.png)](https://bluejoe2008.github.io/pub/ORC_Metadata_Based_Reducer_Load_Balancing_Method_for_Hive_Join_Queries.pdf)
 * 沈志宏,姚畅,侯艳飞,吴林寰,李跃鹏.关联大数据管理技术:挑战、对策与实践[J].数据分析与知识发现,2018,2(01):9-20.
