@@ -3,7 +3,7 @@
 
 ## 个人简介
 
-沈志宏，正高级工程师，博士生导师，现任中国科学院计算机网络信息中心大数据部副主任，大数据分析与计算技术国家地方联合工程实验室总工程师，研究方向为海量数据关联融合、图数据分析挖掘、语义网。目前主持国家重点研发计划“科学大数据管理系统”课题，曾作为技术骨干参与中科院“十一五”“十二五”信息化项目、中科院先导专项、国家基础条件平台项目等。主持开发分布式数据管理发布系统VisualDB、科学数据搜索引擎Voovle、大数据流水线PiFlow、分布式文件系统RegionFS、融合数据库系统PandaDB等软件系统，申请软件发明专利30余项，授权6项，在国内外重要刊物及会议发表学术论文30余篇，学术编著1部，译著1部，软件开发类编著3部。热爱软件开源，主导的开源项目在github/gitee平台获stars数2500+，forks数1000+，部分软件在相关软件社区（Apache Calcite、Neo4j、OpenKG）得到推荐和引用。
+沈志宏，正高级工程师，博士生导师，现任中国科学院计算机网络信息中心大数据部副主任，大数据分析与计算技术国家地方联合工程实验室总工程师，研究方向为海量数据关联融合、图数据分析挖掘、语义网。目前主持国家重点研发计划“科学大数据管理系统”课题，曾作为技术骨干参与中科院“十一五”“十二五”“十三五”信息化项目、中科院先导专项、国家基础条件平台项目等。主持开发分布式数据管理发布系统VisualDB、科学数据搜索引擎Voovle、大数据流水线PiFlow、分布式文件系统RegionFS、融合数据库系统PandaDB等软件系统，申请软件发明专利30余项，授权6项，在国内外重要刊物及会议发表学术论文30余篇，学术编著1部，译著1部，软件开发类编著3部。热爱软件开源，主导的开源项目在github/gitee平台获stars数2500+，forks数1000+，部分软件在相关软件社区（Apache Calcite、Neo4j、OpenKG）得到推荐和引用。
 
 Dr. SHEN Zhihong is a professor in the big data department, CNIC, CAS. His current main research interests include graph database, big data processing, distributed computation and semantic web. Leading his team, Dr. SHEN developed a series of widely used big data software including VisualDB, PiFlow, Voovle, RegionFS, PandaDB, etc. He also participates in the national key research projects, projects of informatization plan of CAS and customer-oriented applications. 
 
@@ -46,12 +46,13 @@ Dr. SHEN Zhihong is a professor in the big data department, CNIC, CAS. His curre
 ## 已授权专利
 
 * *一种支持BLOB的多元大数据融合方法和系统. 201710321988.5
-* 基于数据集相关性的标签网络产生方法和系统. 201510896534.1
-* *一种冲突检验方法以及计算机系统. 201610051422.0
-* *一种Spring IOC配置文件的生成方法. ZL201210018123.9
-* 一种基于空间数据数值索引的数据存储与检索方法. 201210580189.7
-* 一种面向全球变化研究的空间科学数据自动汇聚方法. ZL201110220536.0
-* 面向全球变化研究的空间科学数据元数据自动汇聚方法. ZL201110220537.5
+* 一种混合型航标报警智能检测方法. 201710383979.9;106997692B
+* 基于数据集相关性的标签网络产生方法和系统. 201510896534.1;106844407B
+* *一种冲突检验方法以及计算机系统. 201610051422.0;105740358B
+* *一种Spring IOC配置文件的生成方法. ZL201210018123.9;102609255B
+* 一种基于空间数据数值索引的数据存储与检索方法. 201210580189.7;103020281B
+* 一种面向全球变化研究的空间科学数据自动汇聚方法. 201110220536.0;102254030B
+* 面向全球变化研究的空间科学数据元数据自动汇聚方法. 201110220537.5;102289483B
 * 可定制的移动数据采集系统. ZL200920110708.7
 
 ## 学术论文
