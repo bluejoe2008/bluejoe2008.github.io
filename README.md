@@ -57,6 +57,8 @@ Dr. SHEN Zhihong is a professor in the big data department, CNIC, CAS. His curre
 * 可定制的移动数据采集系统. ZL200920110708.7
 
 ## 学术论文
+* 沈志宏,赵子豪,王海波.以图为中心的新型大数据技术栈研究[J].数据分析与知识发现,2020,4(07):50-65.
+[![](download.png)](https://bluejoe2008.github.io/pub/Big_Data_Technology_Stack_Shifting_From_SQL_Centric_to_Graph_Centric.pdf)
 * 赵子豪,沈志宏*. 一种适合多元异构图数据管理系统的交互分析框架[J]. 数据分析与知识发现,2019,10(34):37-46.
 [![](download.png)](https://bluejoe2008.github.io/pub/An_Interactive_Analysis_Framework_for_Multivariate_Heterogeneous_Graph_Data_Management_System.pdf)
 * 王华进,黎建辉,沈志宏.基于(n,r,k)fork-join队列分析的NWR数据库写延时模型[J].计算机应用研究,2019,36(02):466-471.
