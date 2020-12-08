@@ -67,6 +67,7 @@ Dr. SHEN Zhihong is a professor in the big data department, CNIC, CAS. His curre
 * 王华进,黎建辉,沈志宏,周园春.基于ORC元数据的Hive Join查询Reducer负载均衡方法[J].计算机科学,2018(03):160-166.
 [![](download.png)](https://bluejoe2008.github.io/pub/ORC_Metadata_Based_Reducer_Load_Balancing_Method_for_Hive_Join_Queries.pdf)
 * 沈志宏,姚畅,侯艳飞,吴林寰,李跃鹏.关联大数据管理技术:挑战、对策与实践[J].数据分析与知识发现,2018,2(01):9-20.
+* Yuepeng Li, Zhihong Shen, Jianhui Li. SimbaQL: A Query Language for Multi-source Heterogeneous Data. BigSDM 2018: 275-284
 [![](download.png)](https://bluejoe2008.github.io/pub/Big_Linked_Data_Management_Challenges_Solutions_and_Practices.pdf)
 * Huajin Wang, Jianhui Li, Zhihong Shen and Yuanchun Zhou. Approximations and Bounds for (n, k) Fork-Join Queues: A Linear Transformation Approach. 2018 IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing (CCGRID).
 [![](download.png)](https://bluejoe2008.github.io/pub/Approximations_and_Bounds_for_n_K_Fork_Join_Queues_A_Linear_Transformation_Approach.pdf)
@@ -85,7 +86,7 @@ A Resilient Index Graph for Querying Large Biological Scientific Data. BigData C
 [![](download.png)](https://bluejoe2008.github.io/pub/Research_Review_on_the_Interlinking_Technology_of_Linked_Data.pdf)
 * Shaopeng He; Jianhui Li; Zhihong Shen. F2R: Publishing file systems as Linked Data. 2013. 10th International Conference on Fuzzy Systems and Knowledge Discovery (FSKD)
 [![](download.png)](https://bluejoe2008.github.io/pub/F2R_Publishing_File_Systems_as_Linked_Data.pdf)
-* Jianhui Li,Yuanchun Zhou,Wei Shang,Cungen Cao,Zhihong Shen,Fenglei Yang,Xiao Xiao,Danhuai Guo. A cloud Computation Architecture for Unconventional Emergency Management. In: WAIM2013
+* Jianhui Li,Yuanchun Zhou,Wei Shang,Cungen Cao,Zhihong Shen,Fenglei Yang,Xiao Xiao,Danhuai Guo. A cloud Computation Architecture for Unconventional Emergency Management. WAIM2013: 187-198
 * 沈志宏,刘筱敏,郭学兵. 关联数据发布流程与关键问题研究——以科技文献、科学数据的发布为例. 中国图书馆学报[J]. 2013(2)
 [![](download.png)](https://bluejoe2008.github.io/pub/A_Research_on_Publishing_Workflow_and_Key_Issues_of_Linked_Data.pdf)
 * 黎建辉,兰金松,沈志宏. 面向科学数据的PageRank排序算法. 计算机科学与探索[J]. 2013(06)
@@ -111,7 +112,7 @@ A Resilient Index Graph for Querying Large Biological Scientific Data. BigData C
 [![](download.png)](https://bluejoe2008.github.io/pub/Linked_Data_and_Its_Applications.pdf)
 * 张仁,沈志宏,黎建辉,施建平. 基于规则的土壤数据校验模型研究与实现. 计算机系统应用[J]. 2010(08)
 * 史晓磊,沈志宏,黎建辉. 支持科学数据专业类型的统一检索框架. 计算机系统应用[J]. 2010(12)
-* Zhiyi Huang; Qingling Chang; Zhihong Shen; Yuanchun Zhou; Baoping Yan; Lei Liu. Design and Implementation of an XML-Based Universal Mobile Data Acquisition System. 2009 Fifth International Conference on Semantics, Knowledge and Grid
+* Zhiyi Huang; Qingling Chang; Zhihong Shen; Yuanchun Zhou; Baoping Yan; Lei Liu. Design and Implementation of an XML-Based Universal Mobile Data Acquisition System. SKG 2009: 456-457
 [![](download.png)](https://bluejoe2008.github.io/pub/Design_and_Implementation_of_an_XML-Based_Universal_Mobile_Data_Acquisition_System.pdf)
 * 吴开超,沈志宏,周园春,阎保平. 信息系统访问控制的层次模型. 计算机工程与设计[J]. 2009(01)
 [![](download.png)](https://bluejoe2008.github.io/pub/Hierarchy_model_of_access_control_in_information_system.pdf)
