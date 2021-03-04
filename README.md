@@ -60,6 +60,7 @@ Dr. SHEN Zhihong is a professor in the big data department, CNIC, CAS. His curre
 * 杨风雷,林青慧,黎建辉,沈志宏,胡良霖,周园春. 面向全球变化研究的空间科学数据元数据自动汇聚方法. 201110220537.5. 2012-12-19
 
 ## 学术论文
+* 沈志宏,赵子豪,王华进,刘忠新,胡川,周园春.PandaDB:一种异构数据智能融合管理系统.软件学报,2021,32(3):11-0
 * 沈志宏,赵子豪,王海波.以图为中心的新型大数据技术栈研究[J].数据分析与知识发现,2020,4(07):50-65.
 [![](download.png)](https://bluejoe2008.github.io/pub/Big_Data_Technology_Stack_Shifting_From_SQL_Centric_to_Graph_Centric.pdf)
 * 赵子豪,沈志宏. 一种适合多元异构图数据管理系统的交互分析框架[J]. 数据分析与知识发现,2019,10(34):37-46.
