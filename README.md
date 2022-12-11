@@ -3,23 +3,17 @@
 
 ## 个人简介
 
-沈志宏，正高级工程师，博士生导师，现任中国科学院计算机网络信息中心大数据部副主任，大数据分析与计算技术国家地方联合工程实验室总工程师，研究方向为海量数据关联融合、图数据分析挖掘、语义网。目前主持国家重点研发计划“科学大数据管理系统”课题，曾作为技术骨干参与中科院“十一五”“十二五”“十三五”信息化项目、中科院先导专项、国家基础条件平台项目等。主持开发分布式数据管理发布系统VisualDB、科学数据搜索引擎Voovle、大数据流水线PiFlow、分布式文件系统RegionFS、融合数据库系统PandaDB等软件系统，申请软件发明专利30余项，授权10项，在国内外重要刊物及会议发表学术论文30余篇，学术编著1部，译著1部，软件开发类编著3部。热爱软件开源，主导的开源项目在github/gitee平台获stars数2500+，forks数1000+，部分软件在相关软件社区（Apache Calcite、Neo4j、OpenKG）得到推荐和引用。
+沈志宏，正高级工程师，博士生导师，现任中国科学院计算机网络信息中心大数据部主任、中国科学院科学数据总中心常务副主任、大数据分析与计算技术国家地方联合工程实验室总工程师，研究兴趣包括大数据流水线处理、结构化非结构化数据融合管理、跨中心科学数据协同服务等，国家重点研发计划项目“科学大数据管理系统”课题负责人，国家重点研发计划项目“面向国家科学数据中心的基础软件栈及系统”项目负责人，中国科学院网信专项项目“科学大数据工程（三期）”项目负责人。主持开发分布式数据管理发布系统VisualDB、科学数据搜索引擎Voovle、大数据流水线PiFlow、分布式文件系统RegionFS、融合数据库系统PandaDB等软件系统，申请发明专利30余项，授权10项，在国内外重要刊物及会议发表学术论文30余篇，学术编著1部，译著1部，软件开发类编著3部。热爱软件开源，主导的开源项目在github/gitee平台获stars数2500+，forks数1000+，部分软件在相关软件社区（Apache Calcite、Neo4j、OpenKG）得到推荐和引用。
 
 Dr. SHEN Zhihong is a professor in the big data department, CNIC, CAS. His current main research interests include graph database, big data processing, distributed computation and semantic web. Leading his team, Dr. SHEN developed a series of widely used big data software including VisualDB, PiFlow, Voovle, RegionFS, PandaDB, etc. He also participates in the national key research projects, projects of informatization plan of CAS and customer-oriented applications. 
 
 ## 项目经历
-* 中国烟草总公司科技重大专项项目"烟草科研数据融合与关联挖掘关键技术研究",项目负责人,2018-2019
+* 中国科学院网信专项项目“科学大数据工程（三期）”,项目负责人,2021-2025
+* 国家重点研发计划项目“面向国家科学数据中心的基础软件栈及系统”,项目负责人,2021-2024
+* 中国烟草总公司科技重大专项项目“烟草科研数据融合与关联挖掘关键技术研究”,项目负责人,2018-2019
 * 国家自然科学基金大数据知识管理服务平台,项目负责人,2017
-* 中国科学院信息化专项"科学大数据工程"课题"科学大数据管理与分析平台建设",课题负责人,2016-2020
-* 国家重点研发计划“科学大数据管理系统”课题“系统集成与应用示范”,课题负责人,2016-2019
-* 广州XX信息技术公司合作项目“航道大数据管理系统研发”,项目负责人,2016-2017
-* 中科院十二五信息化专项“科技数据资源整合与共享工程”子课题“科学数据管理与共享云服务平台”,子课题负责人,2012-2015
-* 中科院先导专项“面向感知中国的新一代信息技术研究”课题“异质异类海量多元数据资源融合管理与服务”,专题负责人,2012-2016
-* 国家基础条件平台项目“基础科学数据共享网——理化天文空间生物”子课题“共享服务平台软件”,子课题负责人,2009-2012
-* 国家基础条件平台项目“国家生态系统观测研究网络CERN运行服务”子课题“国家生态系统观测研究网络平台建设”,子课题负责人,2013-2014
-* 所一三五培育项目“科研大数据资源管理与服务平台及其关键技术”,项目负责人,2014-2015
-* 所主任基金项目“基于LOD的古籍信息发布与关联发现系统”,项目负责人,2013-2014
-* 所青年基金项目“基于规则引擎的科学数据质量校验”,项目负责人,2009
+* 中国科学院网信专项项目“科学大数据工程（二期）”,课题负责人,2016-2020
+* 国家重点研发计划项目“科学大数据管理系统”,课题负责人,2016-2019
 
 ## 开源软件项目
 * __InteractiveGraph__: InteractiveGraph provides a web-based interactive operating framwork for large graph data, which may come from a GSON file, or an online Neo4j graph database
@@ -44,28 +38,42 @@ Dr. SHEN Zhihong is a professor in the big data department, CNIC, CAS. His curre
 * 第四范式：数据密集型科学发现. 2012年. 科学出版社. ISBN:9787030347251
 
 ## 已授权专利
-
-* 一种基于图遍历的SPARQL查询优化方法. 201710343003.9;107291807A
-* 沈志宏,黎建辉,周园春,侯艳飞,胡良霖. 一种支持BLOB的多元大数据融合方法和系统. 201710321988.5. 2020-08-14
-* 陶永,陈金柱,邓仕戈,杜一,沈志宏,吴章生. 一种混合型航标报警智能检测方法. 201710383979.9. 
-2020-06-12
+* 沈志宏,朱小杰,宋东泽等. 基于流水线机制的跨中心协同计算的编排方法与系统. 2022101459584
+* 朱小杰,沈志宏,杜一等. 一种大数据ETL任务的编排方法与系统. 2019103596584
+* 沈志宏,周园春,赵子豪. 一种融合图数据库和人工智能算法的数据管理方法及系统. 201811212493X 
+* 沈志宏,周园春,赵子豪. 一种支持非结构化数据存储与查询的图数据库管理系统. 201811202708X
+* 沈志宏,赵子豪. 一种基于次级属性的非结构化数据信息查询方法及系统. 202010513529.9
+* 沈志宏,赵子豪. 一种基于次级属性图的非结构化数据查询方法及系统. 202010529960.2
+* 刘峰,黎建辉,夏景隆等. 一种基于扩展库表数据字典的数据汇交系统定制化方法. 201710368274.X
+* 钟伟才;王群;沈志宏等. 一种特征选择方法及设备. 201610586886.1
+* 刘峰,黎建辉,胡良霖等. 一种通用的在线服务平台定制化评估方法和系统. 201710549593.0
+* 季振峰,李雪斌,沈志宏. 标签预测生成方法及装置. 201610591081.6
+* 黎建辉,李跃鹏,沈志宏. 一种适用于多种大数据管理系统的数据模型转换及查询分析方法. 201710515379.3
+* 沈志宏,李跃鹏,黎建辉. 一种适用于多种大数据管理系统的交互式查询方法. 201710515380.6. 
+* 李亮,沈志宏,周园春等. 一种基于图遍历的SPARQL查询优化方法. 201710343003.9. 2020-10-16
+* 沈志宏,黎建辉,周园春等. 一种支持BLOB的多元大数据融合方法和系统. 201710321988.5. 2020-08-14
+* 陶永,陈金柱,邓仕戈等. 一种混合型航标报警智能检测方法. 201710383979.9. 2020-06-12
 * 钟伟才,沈志宏,王群. 基于数据集相关性的标签网络产生方法和系统. 201510896534.1. 2020-03-10
 * 沈志宏,钟伟才,季振峰. 一种冲突检验方法以及计算机系统. 201610051422.0. 2019-04-19
 * 沈志宏,黎建辉,苏贤明. 一种Spring IOC配置文件的生成方法. ZL201210018123.9. 2015-09-23
-* 李晓东,黎建辉,杨风雷,沈志宏,刘峰. 一种基于空间数据数值索引的数据存储与检索方法. 201210580189.7. 2016-01-27
-* 黎建辉,杨风雷,林青慧,沈志宏,胡良霖,周园春. 一种面向全球变化研究的空间科学数据自动汇聚方法. 201110220536.0. 2013-04-10
-* 杨风雷,林青慧,黎建辉,沈志宏,胡良霖,周园春. 面向全球变化研究的空间科学数据元数据自动汇聚方法. 201110220537.5. 2012-12-19
+* 李晓东,黎建辉,杨风雷等. 一种基于空间数据数值索引的数据存储与检索方法. 201210580189.7. 2016-01-27
+* 黎建辉,杨风雷,林青慧等. 一种面向全球变化研究的空间科学数据自动汇聚方法. 201110220536.0. 2013-04-10
+* 杨风雷,林青慧,黎建辉等. 面向全球变化研究的空间科学数据元数据自动汇聚方法. 201110220537.5. 2012-12-19
 
 ## 学术论文
+* Shi W, Fan G, Shen Z, et al. gcCov: Linked open data for global coronavirus studies[J]. Mlife, 2022, 1(1): 92-95. 
+* 沈志宏,赵子豪,王华进,刘忠新,胡川,周园春.PandaDB:一种异构数据智能融合管理系统.软件学报,2021,32(3):11-0
+[![](download.png)](https://bluejoe2008.github.io/pub/PandaDB_An_Intelligent_Management_System_for_Heterogeneous_Data.pdf)
 * 沈志宏,赵子豪,王海波.以图为中心的新型大数据技术栈研究[J].数据分析与知识发现,2020,4(07):50-65.
 [![](download.png)](https://bluejoe2008.github.io/pub/Big_Data_Technology_Stack_Shifting_From_SQL_Centric_to_Graph_Centric.pdf)
-* 赵子豪,沈志宏*. 一种适合多元异构图数据管理系统的交互分析框架[J]. 数据分析与知识发现,2019,10(34):37-46.
+* 赵子豪,沈志宏. 一种适合多元异构图数据管理系统的交互分析框架[J]. 数据分析与知识发现,2019,10(34):37-46.
 [![](download.png)](https://bluejoe2008.github.io/pub/An_Interactive_Analysis_Framework_for_Multivariate_Heterogeneous_Graph_Data_Management_System.pdf)
 * 王华进,黎建辉,沈志宏.基于(n,r,k)fork-join队列分析的NWR数据库写延时模型[J].计算机应用研究,2019,36(02):466-471.
 [![](download.png)](https://bluejoe2008.github.io/pub/Write_latency_model_for_NWR_databases_based_on_fork_join_queueing_analysis.pdf)
 * 王华进,黎建辉,沈志宏,周园春.基于ORC元数据的Hive Join查询Reducer负载均衡方法[J].计算机科学,2018(03):160-166.
 [![](download.png)](https://bluejoe2008.github.io/pub/ORC_Metadata_Based_Reducer_Load_Balancing_Method_for_Hive_Join_Queries.pdf)
 * 沈志宏,姚畅,侯艳飞,吴林寰,李跃鹏.关联大数据管理技术:挑战、对策与实践[J].数据分析与知识发现,2018,2(01):9-20.
+* Yuepeng Li, Zhihong Shen, Jianhui Li. SimbaQL: A Query Language for Multi-source Heterogeneous Data. BigSDM 2018: 275-284
 [![](download.png)](https://bluejoe2008.github.io/pub/Big_Linked_Data_Management_Challenges_Solutions_and_Practices.pdf)
 * Huajin Wang, Jianhui Li, Zhihong Shen and Yuanchun Zhou. Approximations and Bounds for (n, k) Fork-Join Queues: A Linear Transformation Approach. 2018 IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing (CCGRID).
 [![](download.png)](https://bluejoe2008.github.io/pub/Approximations_and_Bounds_for_n_K_Fork_Join_Queues_A_Linear_Transformation_Approach.pdf)
@@ -84,7 +92,7 @@ A Resilient Index Graph for Querying Large Biological Scientific Data. BigData C
 [![](download.png)](https://bluejoe2008.github.io/pub/Research_Review_on_the_Interlinking_Technology_of_Linked_Data.pdf)
 * Shaopeng He; Jianhui Li; Zhihong Shen. F2R: Publishing file systems as Linked Data. 2013. 10th International Conference on Fuzzy Systems and Knowledge Discovery (FSKD)
 [![](download.png)](https://bluejoe2008.github.io/pub/F2R_Publishing_File_Systems_as_Linked_Data.pdf)
-* Jianhui Li,Yuanchun Zhou,Wei Shang,Cungen Cao,Zhihong Shen,Fenglei Yang,Xiao Xiao,Danhuai Guo. A cloud Computation Architecture for Unconventional Emergency Management. In: WAIM2013
+* Jianhui Li,Yuanchun Zhou,Wei Shang,Cungen Cao,Zhihong Shen,Fenglei Yang,Xiao Xiao,Danhuai Guo. A cloud Computation Architecture for Unconventional Emergency Management. WAIM2013: 187-198
 * 沈志宏,刘筱敏,郭学兵. 关联数据发布流程与关键问题研究——以科技文献、科学数据的发布为例. 中国图书馆学报[J]. 2013(2)
 [![](download.png)](https://bluejoe2008.github.io/pub/A_Research_on_Publishing_Workflow_and_Key_Issues_of_Linked_Data.pdf)
 * 黎建辉,兰金松,沈志宏. 面向科学数据的PageRank排序算法. 计算机科学与探索[J]. 2013(06)
@@ -110,7 +118,7 @@ A Resilient Index Graph for Querying Large Biological Scientific Data. BigData C
 [![](download.png)](https://bluejoe2008.github.io/pub/Linked_Data_and_Its_Applications.pdf)
 * 张仁,沈志宏,黎建辉,施建平. 基于规则的土壤数据校验模型研究与实现. 计算机系统应用[J]. 2010(08)
 * 史晓磊,沈志宏,黎建辉. 支持科学数据专业类型的统一检索框架. 计算机系统应用[J]. 2010(12)
-* Zhiyi Huang; Qingling Chang; Zhihong Shen; Yuanchun Zhou; Baoping Yan; Lei Liu. Design and Implementation of an XML-Based Universal Mobile Data Acquisition System. 2009 Fifth International Conference on Semantics, Knowledge and Grid
+* Zhiyi Huang; Qingling Chang; Zhihong Shen; Yuanchun Zhou; Baoping Yan; Lei Liu. Design and Implementation of an XML-Based Universal Mobile Data Acquisition System. SKG 2009: 456-457
 [![](download.png)](https://bluejoe2008.github.io/pub/Design_and_Implementation_of_an_XML-Based_Universal_Mobile_Data_Acquisition_System.pdf)
 * 吴开超,沈志宏,周园春,阎保平. 信息系统访问控制的层次模型. 计算机工程与设计[J]. 2009(01)
 [![](download.png)](https://bluejoe2008.github.io/pub/Hierarchy_model_of_access_control_in_information_system.pdf)
@@ -125,6 +133,8 @@ A Resilient Index Graph for Querying Large Biological Scientific Data. BigData C
 
 * 科学大数据管理技术：实践与思考. 2019大数据智能与知识服务高端论坛-知领系列论坛(第2期). 2019/11/11. 北京
 * 大数据融合管理：需求、现状与实践. 第二届“数据分析与知识发现”学术研讨会，2019/7/11. 兰州
+* Wang H, Shen Z, Li Y. SciSpace：Towards a Serverless-Style Cloud Service for Scientific Data Lifecycle Management.  1st International Conference on Big Scientific Data Management. 2018/11/30. Beijing, China
+[![](download.png)](https://bluejoe2008.github.io/pub/Towards_a_Serverless-Style_Cloud_Service_for_Scientific_Data_Lifecycle_Management.pdf)
 * 开放科学数据的新发展与新挑战. 2017年中国开放获取推介周(2017 China Open Access Week). 2017/10/23. 北京
 * 科学大数据管理系统集成框架. 第34届中国数据库学术会议. 2017/10/21. 杭州
 * 关联大数据的技术挑战、对策与实践. 数据分析与知识发现学术研讨会. 2017/6/9. 北京
