@@ -97,11 +97,9 @@ A Resilient Index Graph for Querying Large Biological Scientific Data. BigData C
 [![](download.png)](https://bluejoe2008.github.io/pub/A_Research_on_Publishing_Workflow_and_Key_Issues_of_Linked_Data.pdf)
 * 黎建辉,兰金松,沈志宏. 面向科学数据的PageRank排序算法. 计算机科学与探索[J]. 2013(06)
 [![](download.png)](https://bluejoe2008.github.io/pub/PageRank_Algorithm_for_Scientific_Data_Ranking.pdf)
-* 何少鹏,黎建辉.沈志宏. 大规模的RDF数据存储技术综述. 网络新媒体技术. 2013(1):8-16
-* Shen, Z et al 2015 Opencsdb: Research on The Application of Linked Data 
-in Scientific Databases. Data Science Journal, 14: 4, pp. 1-11, DOI: http://
+* 何少鹏,黎建辉.沈志宏. 大规模的RDF数据存储技术综述. 网络新媒体技术. 2013(1):8-16 [![](download.png)](https://bluejoe2008.github.io/pub/Overview_of_the_Storage_Technology_for_Large_scale_RDF_Data.pdf)
+* Shen Z, Li J, Han F. Opencsdb: Research on the application of linked data in scientific databases[J]. Data Science Journal, 2015, 14., DOI: http://
 dx.doi.org/10.5334/dsj-2015-004 [![](download.png)](https://bluejoe2008.github.io/pub/556-1158-1-PB.pdf)
-[![](download.png)](https://bluejoe2008.github.io/pub/Overview_of_the_Storage_Technology_for_Large_scale_RDF_Data.pdf)
 * 沈志宏,张晓林,黎建辉. OpenCSDB: 关联数据在科学数据库中的应用研究. 中国图书馆学报[J]，2012(5)
 [![](download.png)](https://bluejoe2008.github.io/pub/OpenCSDB_Application_of_Linked_Data_in_Scientific_Database.pdf)
 * 苏贤明,沈志宏,刘宁.基于知识规则的Excel数据质量校验工具[J].科研信息化技术与应用,2012,3(03):29-37.
