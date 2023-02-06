@@ -97,8 +97,9 @@ A Resilient Index Graph for Querying Large Biological Scientific Data. BigData C
 [![](download.png)](https://bluejoe2008.github.io/pub/A_Research_on_Publishing_Workflow_and_Key_Issues_of_Linked_Data.pdf)
 * 黎建辉,兰金松,沈志宏. 面向科学数据的PageRank排序算法. 计算机科学与探索[J]. 2013(06)
 [![](download.png)](https://bluejoe2008.github.io/pub/PageRank_Algorithm_for_Scientific_Data_Ranking.pdf)
-* 何少鹏,黎建辉.沈志宏. 大规模的RDF数据存储技术综述. 网络新媒体技术. 2013(1):8-16
-[![](download.png)](https://bluejoe2008.github.io/pub/Overview_of_the_Storage_Technology_for_Large_scale_RDF_Data.pdf)
+* 何少鹏,黎建辉.沈志宏. 大规模的RDF数据存储技术综述. 网络新媒体技术. 2013(1):8-16 [![](download.png)](https://bluejoe2008.github.io/pub/Overview_of_the_Storage_Technology_for_Large_scale_RDF_Data.pdf)
+* Shen Z, Li J, Han F. Opencsdb: Research on the application of linked data in scientific databases[J]. Data Science Journal, 2015, 14., DOI: http://
+dx.doi.org/10.5334/dsj-2015-004 [![](download.png)](https://bluejoe2008.github.io/pub/556-1158-1-PB.pdf)
 * 沈志宏,张晓林,黎建辉. OpenCSDB: 关联数据在科学数据库中的应用研究. 中国图书馆学报[J]，2012(5)
 [![](download.png)](https://bluejoe2008.github.io/pub/OpenCSDB_Application_of_Linked_Data_in_Scientific_Database.pdf)
 * 苏贤明,沈志宏,刘宁.基于知识规则的Excel数据质量校验工具[J].科研信息化技术与应用,2012,3(03):29-37.
@@ -134,7 +135,7 @@ A Resilient Index Graph for Querying Large Biological Scientific Data. BigData C
 * 科学大数据管理技术：实践与思考. 2019大数据智能与知识服务高端论坛-知领系列论坛(第2期). 2019/11/11. 北京
 * 大数据融合管理：需求、现状与实践. 第二届“数据分析与知识发现”学术研讨会，2019/7/11. 兰州
 * Wang H, Shen Z, Li Y. SciSpace：Towards a Serverless-Style Cloud Service for Scientific Data Lifecycle Management.  1st International Conference on Big Scientific Data Management. 2018/11/30. Beijing, China
-[![](download.png)](https://bluejoe2008.github.io/pub/Towards_a_Serverless-Style_Cloud_Service_for_Scientific_Data_Lifecycle_Management.pdf)
+[![](download.png)](https://github.com/bluejoe2008/bluejoe2008.github.io/raw/master/pub/Towards_a_Serverless-Style_Cloud_Service_for_Scientific_Data_Lifecycle_Management.pdf)
 * 开放科学数据的新发展与新挑战. 2017年中国开放获取推介周(2017 China Open Access Week). 2017/10/23. 北京
 * 科学大数据管理系统集成框架. 第34届中国数据库学术会议. 2017/10/21. 杭州
 * 关联大数据的技术挑战、对策与实践. 数据分析与知识发现学术研讨会. 2017/6/9. 北京
