@@ -62,6 +62,7 @@ Dr. SHEN Zhihong is a professor in the big data department, CNIC, CAS. His curre
 * 杨风雷,林青慧,黎建辉等. 面向全球变化研究的空间科学数据元数据自动汇聚方法. 201110220537.5. 2012-12-19
 
 ## 学术论文
+* 沈志宏, 张晓林, 郑晓欢. PARIS原则：开放协作环境下科学数据的可用性[J]. 大数据, doi: 10.11959/j.issn.2096-0271.2023013. [![](download.png)](From_FAIR_to_PARIS_Improving_the_Usability_of_Scientific_Data_in_the_Open_Collaborative_Environment.pdf)
 * Shi W, Fan G, Shen Z, et al. gcCov: Linked open data for global coronavirus studies[J]. Mlife, 2022, 1(1): 92-95. 
 * 沈志宏,赵子豪,王华进,刘忠新,胡川,周园春.PandaDB:一种异构数据智能融合管理系统.软件学报,2021,32(3):11-0
 [![](download.png)](https://bluejoe2008.github.io/pub/PandaDB_An_Intelligent_Management_System_for_Heterogeneous_Data.pdf)
@@ -99,8 +100,8 @@ A Resilient Index Graph for Querying Large Biological Scientific Data. BigData C
 * 黎建辉,兰金松,沈志宏. 面向科学数据的PageRank排序算法. 计算机科学与探索[J]. 2013(06)
 [![](download.png)](https://bluejoe2008.github.io/pub/PageRank_Algorithm_for_Scientific_Data_Ranking.pdf)
 * 何少鹏,黎建辉.沈志宏. 大规模的RDF数据存储技术综述. 网络新媒体技术. 2013(1):8-16 [![](download.png)](https://bluejoe2008.github.io/pub/Overview_of_the_Storage_Technology_for_Large_scale_RDF_Data.pdf)
-* Shen Z, Li J, Han F. Opencsdb: Research on the application of linked data in scientific databases[J]. Data Science Journal, 2015, 14., DOI: http://
-dx.doi.org/10.5334/dsj-2015-004 [![](download.png)](https://bluejoe2008.github.io/pub/556-1158-1-PB.pdf)
+* Shen Z, Li J, Han F. OpenCSDB: Research on the application of linked data in scientific databases[J]. Data Science Journal, 2015, 14., DOI: http://
+dx.doi.org/10.5334/dsj-2015-004 [![](download.png)](https://bluejoe2008.github.io/pub/OpenCSDB_Research_on_The_Application_of_Linked_Data_in_Scientific_Databases.pdf)
 * 沈志宏,张晓林,黎建辉. OpenCSDB: 关联数据在科学数据库中的应用研究. 中国图书馆学报[J]，2012(5)
 [![](download.png)](https://bluejoe2008.github.io/pub/OpenCSDB_Application_of_Linked_Data_in_Scientific_Database.pdf)
 * 苏贤明,沈志宏,刘宁.基于知识规则的Excel数据质量校验工具[J].科研信息化技术与应用,2012,3(03):29-37.
