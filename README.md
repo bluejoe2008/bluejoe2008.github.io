@@ -62,7 +62,7 @@ Dr. SHEN Zhihong is a professor in the big data department, CNIC, CAS. His curre
 * 杨风雷,林青慧,黎建辉等. 面向全球变化研究的空间科学数据元数据自动汇聚方法. 201110220537.5. 2012-12-19
 
 ## 学术论文
-* 沈志宏, 张晓林, 郑晓欢. PARIS原则：开放协作环境下科学数据的可用性[J]. 大数据, doi: 10.11959/j.issn.2096-0271.2023013. [![](download.png)](From_FAIR_to_PARIS_Improving_the_Usability_of_Scientific_Data_in_the_Open_Collaborative_Environment.pdf)
+* 沈志宏, 张晓林, 郑晓欢. PARIS原则：开放协作环境下科学数据的可用性[J]. 大数据, doi: 10.11959/j.issn.2096-0271.2023013. [![](download.png)](https://bluejoe2008.github.io/pub/From_FAIR_to_PARIS_Improving_the_Usability_of_Scientific_Data_in_the_Open_Collaborative_Environment.pdf)
 * Shi W, Fan G, Shen Z, et al. gcCov: Linked open data for global coronavirus studies[J]. Mlife, 2022, 1(1): 92-95. 
 * 沈志宏,赵子豪,王华进,刘忠新,胡川,周园春.PandaDB:一种异构数据智能融合管理系统.软件学报,2021,32(3):11-0
 [![](download.png)](https://bluejoe2008.github.io/pub/PandaDB_An_Intelligent_Management_System_for_Heterogeneous_Data.pdf)
