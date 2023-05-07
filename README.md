@@ -3,13 +3,13 @@
 
 ## 个人简介
 
-沈志宏，正高级工程师，博士生导师，现任中国科学院计算机网络信息中心大数据部主任、中国科学院科学数据总中心常务副主任、大数据分析与计算技术国家地方联合工程实验室总工程师，研究兴趣包括大数据流水线处理、结构化非结构化数据融合管理、跨中心科学数据协同服务等，国家重点研发计划项目“科学大数据管理系统”课题负责人，国家重点研发计划项目“面向国家科学数据中心的基础软件栈及系统”项目负责人，中国科学院网信专项项目“科学大数据工程（三期）”项目负责人。主持开发分布式数据管理发布系统VisualDB、科学数据搜索引擎Voovle、大数据流水线PiFlow、分布式文件系统RegionFS、融合数据库系统PandaDB等软件系统，发明专利授权22项，在国内外重要刊物及会议发表学术论文30余篇，学术编著1部，译著1部，软件开发类编著3部。热爱软件开源，主导的开源项目在github/gitee平台获stars数2500+，forks数1000+，部分软件在相关软件社区（Apache Calcite、Neo4j、OpenKG）得到推荐和引用。
+沈志宏，正高级工程师，博士生导师，现任中国科学院计算机网络信息中心大数据部主任、中国科学院科学数据总中心常务副主任、大数据分析与计算技术国家地方联合工程实验室总工程师，《数据分析与知识服务》期刊编委、CCF大数据专委会执委、CCF开源委员会执委、中国通信学会开源技术委员会委员，研究兴趣包括大数据流水线处理、多元异构数据融合管理、跨中心科学数据协同服务等，国家重点研发计划项目“科学大数据管理系统”课题负责人，国家重点研发计划项目“面向国家科学数据中心的基础软件栈及系统”项目负责人，中国科学院网信专项项目“科学大数据工程（三期）”项目负责人。主持开发分布式数据管理发布系统VisualDB、科学数据搜索引擎Voovle、大数据流水线PiFlow、融合数据库系统PandaDB等开源软件系统，发明专利授权22项，在国内外重要刊物及会议发表学术论文30余篇，学术编著1部，译著1部，软件开发类编著3部。热爱软件开源，主导的开源项目在github/gitee平台获stars数2500+，forks数1000+，部分软件在相关软件社区（Apache Calcite、Neo4j、OpenKG）得到推荐和引用。
 
 Dr. SHEN Zhihong is a professor in the big data department, CNIC, CAS. His current main research interests include graph database, big data processing, distributed computation and semantic web. Leading his team, Dr. SHEN developed a series of widely used big data software including VisualDB, PiFlow, Voovle, RegionFS, PandaDB, etc. He also participates in the national key research projects, projects of informatization plan of CAS and customer-oriented applications. 
 
 ## 项目经历
-* 中国科学院网信专项项目“科学大数据工程（三期）”,项目负责人,2021-2025
 * 国家重点研发计划项目“面向国家科学数据中心的基础软件栈及系统”,项目负责人,2021-2024
+* 中国科学院网信专项项目“科学大数据工程（三期）”,项目负责人,2021-2025
 * 中国烟草总公司科技重大专项项目“烟草科研数据融合与关联挖掘关键技术研究”,项目负责人,2018-2019
 * 国家自然科学基金大数据知识管理服务平台,项目负责人,2017
 * 中国科学院网信专项项目“科学大数据工程（二期）”,课题负责人,2016-2020
